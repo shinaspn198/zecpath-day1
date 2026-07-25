@@ -4,28 +4,58 @@ import Footer from "../components/Footer";
 function Day2() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950 text-white">
+    <Navbar />
 
-      <Navbar />
+<section className="pt-36 pb-20 text-center px-6">
 
-      {/* Hero */}
-      <section className="pt-36 pb-20 text-center px-6">
+  <p className="text-blue-400 uppercase tracking-widest">
+    Day 2 Submission
+  </p>
 
-        <p className="text-blue-400 uppercase tracking-widest">
-          Day 2 Submission
-        </p>
+  <h1 className="text-6xl font-bold mt-4">
+    AI System Architecture
+  </h1>
 
-        <h1 className="text-6xl font-bold mt-4">
-          AI System Architecture
-        </h1>
+  <p className="text-gray-400 mt-6 max-w-3xl mx-auto text-lg">
+    Designing the complete AI ecosystem for the Zecpath Recruitment
+    Platform, including frontend, backend, AI services, databases,
+    and communication architecture.
+  </p>
 
-        <p className="text-gray-400 mt-6 max-w-3xl mx-auto text-lg">
-          Designing the complete AI ecosystem for the Zecpath Recruitment
-          Platform, including frontend, backend, AI services, databases,
-          and communication architecture.
-        </p>
+  {/* Buttons */}
+  <div className="mt-10 flex flex-wrap justify-center gap-5">
 
-      </section>
+    <button
+      onClick={() =>
+        document.getElementById("architecture").scrollIntoView({
+          behavior: "smooth",
+        })
+      }
+      className="px-8 py-4 bg-blue-600 hover:bg-blue-700 rounded-xl text-lg font-semibold transition shadow-lg"
+    >
+      🚀 Explore Documentation
+    </button>
 
+    <a
+      href="/day2_completed.pdf"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="px-8 py-4 border border-gray-600 rounded-xl text-lg hover:bg-slate-800 transition"
+    >
+      📄 View PDF
+    </a>
+
+    <a
+      href="/day2_completed.pdf"
+      download
+      className="px-8 py-4 border border-blue-500 text-blue-400 rounded-xl text-lg hover:bg-blue-500 hover:text-white transition"
+    >
+      ⬇ Download PDF
+    </a>
+
+  </div>
+
+</section>
       {/* Architecture */}
       <section
         id="architecture"

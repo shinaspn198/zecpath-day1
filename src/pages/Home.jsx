@@ -103,6 +103,71 @@ function Home() {
   </div>
 
 </section>
+{/* ================= Learning Roadmap ================= */}
+
+<section className="max-w-6xl mx-auto px-8 py-24">
+
+  <div className="text-center mb-16">
+
+    <p className="text-blue-400 uppercase tracking-widest">
+      Development Journey
+    </p>
+
+    <h2 className="text-5xl font-bold mt-4">
+      AI Engineering Roadmap
+    </h2>
+
+  </div>
+
+
+  <div className="grid md:grid-cols-3 gap-8">
+
+
+    <div className="bg-slate-900 border border-green-500 rounded-2xl p-8">
+
+      <h3 className="text-3xl font-bold text-green-400">
+        Day 1 ✅
+      </h3>
+
+      <p className="text-gray-400 mt-4">
+        Project understanding, requirements analysis,
+        and AI platform planning.
+      </p>
+
+    </div>
+
+
+    <div className="bg-slate-900 border border-blue-500 rounded-2xl p-8">
+
+      <h3 className="text-3xl font-bold text-blue-400">
+        Day 2 ✅
+      </h3>
+
+      <p className="text-gray-400 mt-4">
+        Complete AI system architecture,
+        communication design, and deployment planning.
+      </p>
+
+    </div>
+
+
+    <div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
+
+      <h3 className="text-3xl font-bold text-purple-400">
+        Day 3 🚀
+      </h3>
+
+      <p className="text-gray-400 mt-4">
+        Coming soon...
+        Next stage of AI engineering development.
+      </p>
+
+    </div>
+
+
+  </div>
+
+</section>
     </div>
   );
 }
