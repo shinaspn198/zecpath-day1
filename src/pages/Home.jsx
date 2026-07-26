@@ -154,7 +154,8 @@ function Home() {
     <div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
 
       <h3 className="text-3xl font-bold text-purple-400">
-        Day 3 🚀
+      Day 3 🔵 In Progress
+      Environment & Repository Setup🚀
       </h3>
 
       <p className="text-gray-400 mt-4">
