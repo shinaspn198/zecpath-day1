@@ -43,75 +43,94 @@ function Day3() {
           >
             Explore Architecture
           </a>
-        function Day3() {
-  return (
-    <div className="day3">
-
-      <h1>🚀 Day 3 Documentation</h1>
-
-      {/* Your existing Day 3 content here */}
-
-
-      <section className="deliverables">
-        <h2>📄 Internship Deliverables</h2>
-
-        <p>
-          View and download the completed internship reports.
-        </p>
-
-        <div className="pdf-links">
-
-          <a
-            href="/day1_Report.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            👁️ View Day 1 Report
-          </a>
-
-          <a href="/day1_Report.pdf" download>
-            ⬇️ Download Day 1 Report
-          </a>
-
-
-          <a
-            href="/day2_Report.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            👁️ View Day 2 Report
-          </a>
-
-          <a href="/day2_Report.pdf" download>
-            ⬇️ Download Day 2 Report
-          </a>
-
-
-          <a
-            href="/day3_Report.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            👁️ View Day 3 Report
-          </a>
-
-          <a href="/day3_Report.pdf" download>
-            ⬇️ Download Day 3 Report
-          </a>
-
+        
         </div>
+
       </section>
+    {/* Internship Deliverables */}
+
+<section className="max-w-5xl mx-auto px-8 py-16">
+
+  <div className="bg-slate-900 border border-slate-800 rounded-2xl p-10 text-center">
+
+    <p className="text-blue-400 uppercase tracking-widest">
+      Internship Deliverables
+    </p>
+
+    <h2 className="text-4xl font-bold mt-4">
+      📄 Documentation Reports
+    </h2>
+
+    <p className="text-gray-400 mt-6">
+      View and download the completed internship documentation reports.
+    </p>
+
+
+    <div className="flex flex-wrap justify-center gap-5 mt-8">
+
+
+      <a
+        href="/day1_Report.pdf"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="px-6 py-3 bg-blue-600 hover:bg-blue-700 rounded-xl font-semibold"
+      >
+        👁️ View Day 1 PDF
+      </a>
+
+
+      <a
+        href="/day1_Report.pdf"
+        download
+        className="px-6 py-3 border border-gray-600 hover:bg-slate-800 rounded-xl font-semibold"
+      >
+        ⬇️ Download Day 1
+      </a>
+
+
+      <a
+        href="/day2_Report.pdf"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="px-6 py-3 bg-green-600 hover:bg-green-700 rounded-xl font-semibold"
+      >
+        👁️ View Day 2 PDF
+      </a>
+
+
+      <a
+        href="/day2_Report.pdf"
+        download
+        className="px-6 py-3 border border-gray-600 hover:bg-slate-800 rounded-xl font-semibold"
+      >
+        ⬇️ Download Day 2
+      </a>
+
+
+      <a
+        href="/day3_Report.pdf"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="px-6 py-3 bg-purple-600 hover:bg-purple-700 rounded-xl font-semibold"
+      >
+        👁️ View Day 3 PDF
+      </a>
+
+
+      <a
+        href="/day3_Report.pdf"
+        download
+        className="px-6 py-3 border border-gray-600 hover:bg-slate-800 rounded-xl font-semibold"
+      >
+        ⬇️ Download Day 3
+      </a>
 
 
     </div>
-  );
-}
 
-export default Day3;
-        </div>
+  </div>
 
-      </section>
-
+</section>
     {/* Repository Architecture */}
 
 <section
