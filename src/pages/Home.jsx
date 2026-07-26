@@ -42,6 +42,52 @@ function Home() {
           >
             🤖 Day 2
           </Link>
+          <div className="bg-slate-900 border border-slate-800 rounded-2xl p-8 hover:border-purple-500 hover:-translate-y-2 transition duration-300">
+
+  <p className="text-purple-400 uppercase tracking-widest">
+    Day 3
+  </p>
+
+  <h3 className="text-3xl font-bold mt-4">
+    AI Environment Setup
+  </h3>
+
+  <p className="text-gray-400 mt-4">
+    Built a modular AI engineering environment with repository
+    architecture, AI modules, testing framework, and Git workflow.
+  </p>
+
+
+  <a
+    href="/day3"
+    className="inline-block mt-6 px-6 py-3 bg-purple-600 hover:bg-purple-700 rounded-xl transition"
+  >
+    View Day 3 🚀
+  </a>
+
+</div>
+<div className="bg-slate-900 border border-slate-800 rounded-2xl p-8 opacity-70">
+
+  <p className="text-gray-400 uppercase tracking-widest">
+    Upcoming
+  </p>
+
+  <h3 className="text-3xl font-bold mt-4">
+    Day 4
+  </h3>
+
+  <p className="text-gray-400 mt-4">
+    Next Zecpath AI engineering assignment coming soon.
+  </p>
+
+
+  <button
+    className="mt-6 px-6 py-3 border border-gray-600 rounded-xl"
+  >
+    Coming Soon 🚀
+  </button>
+
+</div>
         </div>
 
       </section>

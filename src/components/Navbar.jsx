@@ -27,6 +27,10 @@ function Navbar() {
             🤖 Day 2
           </Link>
 
+          <Link to="/day3" className="hover:text-blue-400 transition"
+>           🚀 Day 3
+          </Link>
+
           <Link to="/about" className="hover:text-blue-400 transition">
             ℹ️ About
           </Link>
