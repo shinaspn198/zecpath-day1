@@ -70,7 +70,7 @@ function Day3() {
 
 
       <a
-        href="/day1_Report.pdf"
+        href="/day1_completed.pdf"
         target="_blank"
         rel="noopener noreferrer"
         className="px-6 py-3 bg-blue-600 hover:bg-blue-700 rounded-xl font-semibold"
@@ -80,7 +80,7 @@ function Day3() {
 
 
       <a
-        href="/day1_Report.pdf"
+        href="/day1_completed.pdf"
         download
         className="px-6 py-3 border border-gray-600 hover:bg-slate-800 rounded-xl font-semibold"
       >
@@ -89,7 +89,7 @@ function Day3() {
 
 
       <a
-        href="/day2_Report.pdf"
+        href="/day2_completed.pdf"
         target="_blank"
         rel="noopener noreferrer"
         className="px-6 py-3 bg-green-600 hover:bg-green-700 rounded-xl font-semibold"
@@ -99,7 +99,7 @@ function Day3() {
 
 
       <a
-        href="/day2_Report.pdf"
+        href="/day2_completed.pdf"
         download
         className="px-6 py-3 border border-gray-600 hover:bg-slate-800 rounded-xl font-semibold"
       >
@@ -108,7 +108,7 @@ function Day3() {
 
 
       <a
-        href="/day3_Report.pdf"
+        href="/day3_completed.pdf"
         target="_blank"
         rel="noopener noreferrer"
         className="px-6 py-3 bg-purple-600 hover:bg-purple-700 rounded-xl font-semibold"
@@ -118,7 +118,7 @@ function Day3() {
 
 
       <a
-        href="/day3_Report.pdf"
+        href="/day3_completed.pdf"
         download
         className="px-6 py-3 border border-gray-600 hover:bg-slate-800 rounded-xl font-semibold"
       >
