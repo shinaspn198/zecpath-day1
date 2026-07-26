@@ -106,24 +106,23 @@ function Day3() {
         ⬇️ Download Day 2
       </a>
 
+<a
+  href={`${window.location.origin}/day3_completed.pdf`}
+  target="_blank"
+  rel="noopener noreferrer"
+  className="px-6 py-3 bg-purple-600 hover:bg-purple-700 rounded-xl font-semibold"
+>
+  👁️ View Day 3 PDF
+</a>
 
-      <a
-        href="/day3_completed.pdf"
-        target="_blank"
-        rel="noopener noreferrer"
-        className="px-6 py-3 bg-purple-600 hover:bg-purple-700 rounded-xl font-semibold"
-      >
-        👁️ View Day 3 PDF
-      </a>
 
-
-      <a
-        href="/day3_completed.pdf"
-        download
-        className="px-6 py-3 border border-gray-600 hover:bg-slate-800 rounded-xl font-semibold"
-      >
-        ⬇️ Download Day 3
-      </a>
+<a
+  href={`${window.location.origin}/day3_completed.pdf`}
+  download="day3_completed.pdf"
+  className="px-6 py-3 border border-gray-600 hover:bg-slate-800 rounded-xl font-semibold"
+>
+  ⬇️ Download Day 3
+</a>
 
 
     </div>
