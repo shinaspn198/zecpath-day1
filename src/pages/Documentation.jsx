@@ -1,0 +1,64 @@
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
+import "../Documentation.css";
+import { Link } from "react-router-dom";
+
+function Documentation() {
+  return (
+    <div className="min-h-screen bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950 text-white">
+
+      <Navbar />
+
+      <div className="documentation pt-28">
+
+        <h1>📚 Zecpath AI Internship Documentation</h1>
+
+        <p>
+          Browse all completed internship learning modules and documentation.
+        </p>
+
+        <div className="docs-grid">
+
+          <Link to="/day1" className="doc-card">
+            <span className="badge completed">Completed</span>
+
+            <h2>📘 Day 1</h2>
+
+            <p>Introduction to AI Engineering</p>
+          </Link>
+
+          <Link to="/day2" className="doc-card">
+            <span className="badge completed">Completed</span>
+
+            <h2>🤖 Day 2</h2>
+
+            <p>AI System Architecture & Communication Design</p>
+          </Link>
+
+          <Link to="/day3" className="doc-card">
+            <span className="badge completed">Completed</span>
+
+            <h2>🚀 Day 3</h2>
+
+            <p>Environment Setup & Repository Structure</p>
+          </Link>
+
+          <div className="doc-card disabled">
+            <span className="badge upcoming">Coming Soon</span>
+
+            <h2>📅 Day 4</h2>
+
+            <p>Coming Soon...</p>
+          </div>
+
+        </div>
+
+      </div>
+
+      <Footer />
+
+    </div>
+  );
+}
+
+export default Documentation;

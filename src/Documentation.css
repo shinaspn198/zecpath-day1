@@ -1,0 +1,68 @@
+.documentation {
+  max-width: 1100px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.documentation h1 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.documentation p {
+  text-align: center;
+  color: #666;
+  margin-bottom: 40px;
+}
+
+.docs-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+.doc-card {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 25px;
+  text-decoration: none;
+  color: #222;
+  box-shadow: 0 10px 25px rgba(0,0,0,.08);
+  transition: all .3s ease;
+  border: 2px solid transparent;
+}
+
+.doc-card:hover {
+  transform: translateY(-8px);
+  border-color: #4f46e5;
+  box-shadow: 0 15px 35px rgba(79,70,229,.2);
+}
+
+.doc-card h2 {
+  margin-bottom: 12px;
+  font-size: 28px;
+}
+
+.doc-card p {
+  text-align: left;
+  color: #666;
+  margin: 0;
+}
+.badge {
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.completed {
+  background: #dcfce7;
+  color: #166534;
+}
+
+.upcoming {
+  background: #f3f4f6;
+  color: #555;
+}

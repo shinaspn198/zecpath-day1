@@ -1,22 +1,27 @@
 import { Link } from "react-router-dom";
 import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
 
 function Home() {
   return (
-    
-    <div className="min-h-screen bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950 text-white">
+    <div className="min-h-screen overflow-x-hidden bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950 text-white">
+
       <Navbar />
 
       {/* Hero Section */}
       <section className="flex flex-col items-center justify-center min-h-screen text-center px-6">
 
-        <div className="inline-block px-4 py-2 rounded-full bg-blue-500/10 border border-blue-500/30 text-blue-400 text-sm mb-6">
+        <div className="px-4 py-2 rounded-full bg-blue-500/10 border border-blue-500/30 text-blue-400 text-sm mb-6">
           🚀 Zecpath AI Internship Documentation Portal
         </div>
 
         <h1 className="text-6xl font-bold leading-tight">
-          <span className="text-white">Zecpath AI</span>
+          <span className="text-white">
+            Zecpath AI
+          </span>
+
           <br />
+
           <span className="bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">
             Onboarding Portal
           </span>
@@ -28,193 +33,169 @@ function Home() {
           documentation for the Zecpath AI Recruitment Platform.
         </p>
 
-        <div className="mt-10 flex gap-6">
+        <div className="mt-10">
           <Link
-            to="/day1"
-            className="px-8 py-4 bg-blue-600 hover:bg-blue-700 rounded-xl font-semibold"
+            to="/documentation"
+            className="px-8 py-4 bg-blue-600 hover:bg-blue-700 rounded-xl font-semibold transition"
           >
-            📘 Day 1
+            📚 Explore Documentation
           </Link>
-
-          <Link
-            to="/day2"
-            className="px-8 py-4 bg-green-600 hover:bg-green-700 rounded-xl font-semibold"
-          >
-            🤖 Day 2
-          </Link>
-          <div className="bg-slate-900 border border-slate-800 rounded-2xl p-8 hover:border-purple-500 hover:-translate-y-2 transition duration-300">
-
-  <p className="text-purple-400 uppercase tracking-widest">
-    Day 3
-  </p>
-
-  <h3 className="text-3xl font-bold mt-4">
-    AI Environment Setup
-  </h3>
-
-  <p className="text-gray-400 mt-4">
-    Built a modular AI engineering environment with repository
-    architecture, AI modules, testing framework, and Git workflow.
-  </p>
-
-
-  <a
-    href="/day3"
-    className="inline-block mt-6 px-6 py-3 bg-purple-600 hover:bg-purple-700 rounded-xl transition"
-  >
-    View Day 3 🚀
-  </a>
-
-</div>
-<div className="bg-slate-900 border border-slate-800 rounded-2xl p-8 opacity-70">
-
-  <p className="text-gray-400 uppercase tracking-widest">
-    Upcoming
-  </p>
-
-  <h3 className="text-3xl font-bold mt-4">
-    Day 4
-  </h3>
-
-  <p className="text-gray-400 mt-4">
-    Next Zecpath AI engineering assignment coming soon.
-  </p>
-
-
-  <button
-    className="mt-6 px-6 py-3 border border-gray-600 rounded-xl"
-  >
-    Coming Soon 🚀
-  </button>
-
-</div>
         </div>
 
       </section>
-    {/* ================= Internship Progress ================= */}
 
-<section className="max-w-6xl mx-auto px-6 pb-24">
+      {/* Internship Progress */}
 
-  <div className="text-center mb-14">
-    <p className="text-blue-400 uppercase tracking-widest">
-      Internship Progress
-    </p>
+      <section className="max-w-7xl mx-auto px-6 pb-24">
 
-    <h2 className="text-5xl font-bold mt-4">
-      Documentation Timeline
-    </h2>
+        <div className="text-center mb-14">
 
-    <p className="text-gray-400 mt-6 max-w-2xl mx-auto">
-      Follow the progress of the Zecpath AI onboarding journey through
-      structured daily deliverables.
-    </p>
-  </div>
+          <p className="text-blue-400 uppercase tracking-widest">
+            Learning Progress
+          </p>
 
-  <div className="grid md:grid-cols-2 gap-8">
+          <h2 className="text-5xl font-bold mt-4">
+            Documentation Timeline
+          </h2>
 
-    <Link
-      to="/day1"
-      className="bg-slate-900 border border-slate-800 rounded-2xl p-8 hover:border-blue-500 hover:-translate-y-2 transition duration-300"
-    >
-      <h3 className="text-3xl font-bold text-blue-400">
-        📘 Day 1
-      </h3>
+          <p className="text-gray-400 mt-6 max-w-2xl mx-auto">
+            Follow the progress of the Zecpath AI onboarding journey
+            through structured daily deliverables.
+          </p>
 
-      <p className="text-gray-400 mt-4">
-        Product Overview, Hiring Lifecycle, AI Modules, and AI Responsibilities.
-      </p>
+        </div>
 
-      <div className="mt-6 text-green-400 font-semibold">
-        ✅ Completed
-      </div>
-    </Link>
+        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
 
-    <Link
-      to="/day2"
-      className="bg-slate-900 border border-slate-800 rounded-2xl p-8 hover:border-green-500 hover:-translate-y-2 transition duration-300"
-    >
-      <h3 className="text-3xl font-bold text-green-400">
-        🤖 Day 2
-      </h3>
+          <div className="bg-slate-900 border border-blue-500 rounded-2xl p-8">
 
-      <p className="text-gray-400 mt-4">
-        AI System Architecture, Data Flow, Microservices, and Communication Design.
-      </p>
+            <h3 className="text-3xl font-bold text-blue-400">
+              📘 Day 1
+            </h3>
 
-      <div className="mt-6 text-yellow-400 font-semibold">
-        ✅ Completed
-      </div>
-    </Link>
+            <p className="text-gray-400 mt-4">
+              Product overview, hiring lifecycle, AI modules and responsibilities.
+            </p>
 
-  </div>
+            <div className="mt-6 text-green-400 font-semibold">
+              ✅ Completed
+            </div>
 
-</section>
-{/* ================= Learning Roadmap ================= */}
+          </div>
 
-<section className="max-w-6xl mx-auto px-8 py-24">
+          <div className="bg-slate-900 border border-green-500 rounded-2xl p-8">
 
-  <div className="text-center mb-16">
+            <h3 className="text-3xl font-bold text-green-400">
+              🤖 Day 2
+            </h3>
 
-    <p className="text-blue-400 uppercase tracking-widest">
-      Development Journey
-    </p>
+            <p className="text-gray-400 mt-4">
+              AI system architecture, data flow, microservices and communication design.
+            </p>
 
-    <h2 className="text-5xl font-bold mt-4">
-      AI Engineering Roadmap
-    </h2>
+            <div className="mt-6 text-green-400 font-semibold">
+              ✅ Completed
+            </div>
 
-  </div>
+          </div>
 
+          <div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
 
-  <div className="grid md:grid-cols-3 gap-8">
+            <h3 className="text-3xl font-bold text-purple-400">
+              🚀 Day 3
+            </h3>
 
+            <p className="text-gray-400 mt-4">
+              AI environment setup, repository architecture, AI modules,
+              testing framework and Git workflow.
+            </p>
 
-    <div className="bg-slate-900 border border-green-500 rounded-2xl p-8">
+            <div className="mt-6 text-green-400 font-semibold">
+              ✅ Completed
+            </div>
 
-      <h3 className="text-3xl font-bold text-green-400">
-        Day 1 ✅
-      </h3>
+          </div>
 
-      <p className="text-gray-400 mt-4">
-        Project understanding, requirements analysis,
-        and AI platform planning.
-      </p>
+          <div className="bg-slate-900 border border-slate-700 rounded-2xl p-8">
 
-    </div>
+            <h3 className="text-3xl font-bold text-gray-400">
+              📅 Day 4
+            </h3>
 
+            <p className="text-gray-400 mt-4">
+              Next Zecpath AI engineering assignment coming soon.
+            </p>
 
-    <div className="bg-slate-900 border border-blue-500 rounded-2xl p-8">
+            <div className="mt-6 text-yellow-400 font-semibold">
+              ⏳ Coming Soon
+            </div>
 
-      <h3 className="text-3xl font-bold text-blue-400">
-        Day 2 ✅
-      </h3>
+          </div>
 
-      <p className="text-gray-400 mt-4">
-        Complete AI system architecture,
-        communication design, and deployment planning.
-      </p>
+        </div>
 
-    </div>
+      </section>
 
+      {/* Learning Roadmap */}
 
-    <div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
+      <section className="max-w-7xl mx-auto px-6 py-24">
 
-      <h3 className="text-3xl font-bold text-purple-400">
-      Day 3 🔵 In Progress
-      Environment & Repository Setup🚀
-      </h3>
+        <div className="text-center mb-16">
 
-      <p className="text-gray-400 mt-4">
-        Coming soon...
-        Next stage of AI engineering development.
-      </p>
+          <p className="text-blue-400 uppercase tracking-widest">
+            Development Journey
+          </p>
 
-    </div>
+          <h2 className="text-5xl font-bold mt-4">
+            AI Engineering Roadmap
+          </h2>
 
+        </div>
 
-  </div>
+        <div className="grid md:grid-cols-3 gap-8">
 
-</section>
+          <div className="bg-slate-900 border border-green-500 rounded-2xl p-8">
+
+            <h3 className="text-3xl font-bold text-green-400">
+              Day 1 ✅
+            </h3>
+
+            <p className="text-gray-400 mt-4">
+              Project understanding, requirements analysis and planning.
+            </p>
+
+          </div>
+
+          <div className="bg-slate-900 border border-blue-500 rounded-2xl p-8">
+
+            <h3 className="text-3xl font-bold text-blue-400">
+              Day 2 ✅
+            </h3>
+
+            <p className="text-gray-400 mt-4">
+              AI architecture, communication design and deployment planning.
+            </p>
+
+          </div>
+
+          <div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
+
+            <h3 className="text-3xl font-bold text-purple-400">
+              Day 3 ✅
+            </h3>
+
+            <p className="text-gray-400 mt-4">
+              Environment setup, repository structure, testing and engineering workflow.
+            </p>
+
+          </div>
+
+        </div>
+
+      </section>
+
+      <Footer />
+
     </div>
   );
 }

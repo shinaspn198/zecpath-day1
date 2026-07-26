@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 
 function Navbar() {
   return (
@@ -11,33 +11,46 @@ function Navbar() {
             Zecpath <span className="text-blue-500">AI</span>
           </h1>
         </Link>
+<div className="hidden md:flex gap-8">
 
-        {/* Navigation */}
-        <div className="hidden md:flex gap-8 text-gray-300">
+  <NavLink
+    to="/"
+    end
+    className={({ isActive }) =>
+      isActive
+        ? "text-blue-400 font-semibold"
+        : "text-gray-300 hover:text-blue-400 transition"
+    }
+  >
+    🏠 Home
+  </NavLink>
 
-          <Link to="/" className="hover:text-blue-400 transition">
-            🏠 Home
-          </Link>
+  <NavLink
+    to="/documentation"
+    className={({ isActive }) =>
+      isActive
+        ? "text-blue-400 font-semibold"
+        : "text-gray-300 hover:text-blue-400 transition"
+    }
+  >
+    📚 Documentation
+  </NavLink>
 
-          <Link to="/day1" className="hover:text-blue-400 transition">
-            📘 Day 1
-          </Link>
+  <NavLink
+    to="/about"
+    className={({ isActive }) =>
+      isActive
+        ? "text-blue-400 font-semibold"
+        : "text-gray-300 hover:text-blue-400 transition"
+    }
+  >
+    ℹ️ About
+  </NavLink>
 
-          <Link to="/day2" className="hover:text-blue-400 transition">
-            🤖 Day 2
-          </Link>
-
-          <Link to="/day3" className="hover:text-blue-400 transition"
->           🚀 Day 3
-          </Link>
-
-          <Link to="/about" className="hover:text-blue-400 transition">
-            ℹ️ About
-          </Link>
-
+</div>
         </div>
 
-      </div>
+
     </nav>
   );
 }
