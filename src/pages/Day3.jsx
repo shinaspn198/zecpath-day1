@@ -43,7 +43,71 @@ function Day3() {
           >
             Explore Architecture
           </a>
+        function Day3() {
+  return (
+    <div className="day3">
 
+      <h1>🚀 Day 3 Documentation</h1>
+
+      {/* Your existing Day 3 content here */}
+
+
+      <section className="deliverables">
+        <h2>📄 Internship Deliverables</h2>
+
+        <p>
+          View and download the completed internship reports.
+        </p>
+
+        <div className="pdf-links">
+
+          <a
+            href="/day1_Report.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            👁️ View Day 1 Report
+          </a>
+
+          <a href="/day1_Report.pdf" download>
+            ⬇️ Download Day 1 Report
+          </a>
+
+
+          <a
+            href="/day2_Report.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            👁️ View Day 2 Report
+          </a>
+
+          <a href="/day2_Report.pdf" download>
+            ⬇️ Download Day 2 Report
+          </a>
+
+
+          <a
+            href="/day3_Report.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            👁️ View Day 3 Report
+          </a>
+
+          <a href="/day3_Report.pdf" download>
+            ⬇️ Download Day 3 Report
+          </a>
+
+        </div>
+      </section>
+
+
+    </div>
+  );
+}
+
+export default Day3;
         </div>
 
       </section>
