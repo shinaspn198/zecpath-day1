@@ -1,0 +1,49 @@
+{
+  "job_title": "AI/ML Engineer",
+  "company": "Springer Nature",
+  "location": "Pune - Hybrid",
+  "employment_type": "Full-time",
+  "experience_required": "3+ Years",
+  "education_required": "Bachelor's or Master's degree in Computer Science, Engineering, or related field",
+  "required_skills": [
+    "Python",
+    "R",
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-learn",
+    "Machine Learning",
+    "Deep Learning",
+    "Generative AI",
+    "LLMs",
+    "RAG",
+    "NLP",
+    "AWS",
+    "Azure",
+    "Google Cloud",
+    "Version Control"
+  ],
+  "preferred_skills": [
+    "Problem Solving",
+    "Analytical Skills",
+    "Communication",
+    "Teamwork",
+    "Software Engineering",
+    "Data Visualization"
+  ],
+  "responsibilities": [
+    "Develop end-to-end AI/ML solutions",
+    "Preprocess data for model training",
+    "Deploy and maintain AI models",
+    "Optimize model performance",
+    "Research new AI technologies",
+    "Build AI infrastructure and data pipelines",
+    "Apply NLP, Computer Vision and Predictive Analytics",
+    "Monitor and retrain deployed models"
+  ],
+  "salary": "Not Mentioned",
+  "benefits": [
+    "Hybrid Working",
+    "Learning Opportunities",
+    "Inclusive Workplace"
+  ]
+}

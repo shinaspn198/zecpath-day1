@@ -1,0 +1,71 @@
+{
+  "candidate_profile": {
+    "candidate_id": "CAND001",
+    "name": "ANIRUDH K N",
+    "email": "theanirudhkn@gmail.com",
+    "phone": "+91 89213 60955",
+    "location": "Bengaluru, India"
+  },
+
+  "job_profile": {
+    "job_id": "JOB001",
+    "job_title": "Data Science and Analytics Intern",
+    "company": "Future Interns",
+    "location": "Remote"
+  },
+
+  "skill_object": [
+    {
+      "skill_name": "Python",
+      "category": "Programming",
+      "proficiency": "Advanced"
+    },
+    {
+      "skill_name": "SQL",
+      "category": "Database",
+      "proficiency": "Intermediate"
+    },
+    {
+      "skill_name": "Power BI",
+      "category": "Visualization",
+      "proficiency": "Advanced"
+    },
+    {
+      "skill_name": "Machine Learning",
+      "category": "AI/ML",
+      "proficiency": "Intermediate"
+    },
+    {
+      "skill_name": "Git/GitHub",
+      "category": "Version Control",
+      "proficiency": "Intermediate"
+    }
+  ],
+
+  "experience_object": [
+    {
+      "company": "Future Interns",
+      "designation": "Data Science and Analytics Intern",
+      "start_date": "Apr 2026",
+      "end_date": "May 2026",
+      "duration": "2 Months",
+      "description": "Built automated reporting workflows and business analytics dashboards."
+    },
+    {
+      "company": "Zetheta Algorithms Pvt Ltd",
+      "designation": "Risk Dashboard Developer Intern",
+      "start_date": "Feb 2026",
+      "end_date": "Apr 2026",
+      "duration": "3 Months",
+      "description": "Developed financial risk dashboards and statistical reports."
+    },
+    {
+      "company": "Quest Innovative Solutions Pvt Ltd",
+      "designation": "Data Analyst Intern",
+      "start_date": "Jan 2026",
+      "end_date": "Feb 2026",
+      "duration": "2 Months",
+      "description": "Created Power BI dashboards and transformed business datasets."
+    }
+  ]
+}

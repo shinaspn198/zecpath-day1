@@ -1,0 +1,71 @@
+{
+  "candidate_name": "ANIRUDH K N",
+  "email": "theanirudhkn@gmail.com",
+  "phone": "+91 89213 60955",
+  "location": "Bengaluru, India",
+  "summary": "Results-driven Computer Applications graduate with experience in data pipeline development, REST API integration, workflow automation, dashboard design, machine learning, and Generative AI.",
+  "skills": [
+    "Python",
+    "SQL",
+    "Power BI",
+    "Tableau",
+    "Streamlit",
+    "Pandas",
+    "NumPy",
+    "Scikit-learn",
+    "DAX",
+    "Power Query",
+    "REST API",
+    "Git",
+    "GitHub",
+    "Advanced Excel"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Applications",
+      "institution": "East Point Group of Institutions, Bengaluru North University",
+      "year": "Expected June 2026"
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Data Science and Analytics Intern",
+      "company": "Future Interns",
+      "duration": "Apr 2026 – May 2026",
+      "responsibilities": [
+        "Automated reporting workflows",
+        "Sales analysis",
+        "Customer churn reporting",
+        "Marketing funnel analysis"
+      ]
+    },
+    {
+      "job_title": "Risk Dashboard Developer Intern",
+      "company": "Zetheta Algorithms Pvt Ltd",
+      "duration": "Feb 2026 – Apr 2026",
+      "responsibilities": [
+        "Financial risk dashboards",
+        "Statistical analysis",
+        "Performance reporting"
+      ]
+    },
+    {
+      "job_title": "Data Analyst Intern",
+      "company": "Quest Innovative Solutions Pvt Ltd",
+      "duration": "Jan 2026 – Feb 2026",
+      "responsibilities": [
+        "Power BI dashboards",
+        "Data transformation",
+        "Business KPI analysis"
+      ]
+    }
+  ],
+  "certifications": [
+    "Google Analytics Certified",
+    "Introduction to Generative AI - Google Cloud",
+    "AI Infrastructure & Operations Fundamentals - NVIDIA"
+  ],
+  "projects": [
+    "AI-Based Earthquake Risk Analysis & Seismic Pattern Prediction System"
+  ]
+}

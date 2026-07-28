@@ -43,13 +43,13 @@ function Documentation() {
             <p>Environment Setup & Repository Structure</p>
           </Link>
 
-          <div className="doc-card disabled">
-            <span className="badge upcoming">Coming Soon</span>
+          <Link to="/day4" className="doc-card">
+             <span className="badge completed">Completed</span>
 
-            <h2>📅 Day 4</h2>
+           <h2>📊 Day 4</h2>
 
-            <p>Coming Soon...</p>
-          </div>
+           <p>Data Understanding & Structuring</p>
+          </Link>
 
         </div>
 
