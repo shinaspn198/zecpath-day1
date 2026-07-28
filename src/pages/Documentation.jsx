@@ -50,7 +50,14 @@ function Documentation() {
 
            <p>Data Understanding & Structuring</p>
           </Link>
+        
+        <Link to="/day5" className="doc-card">
+          <span className="badge completed">Completed</span>
 
+          <h2>📝 Day 5</h2>
+
+          <p>Resume Text Extraction Engine</p>
+          </Link>
         </div>
 
       </div>
