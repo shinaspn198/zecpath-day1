@@ -116,79 +116,38 @@ function Home() {
 
           </div>
 
-          <div className="bg-slate-900 border border-slate-700 rounded-2xl p-8">
-
-            <h3 className="text-3xl font-bold text-gray-400">
-              📅 Day 4
-            </h3>
-
-            <p className="text-gray-400 mt-4">
-              Next Zecpath AI engineering assignment coming soon.
-            </p>
-
-            <div className="mt-6 text-yellow-400 font-semibold">
-              ⏳ Coming Soon
-            </div>
-
-          </div>
-
-        </div>
-
-      </section>
-
-      {/* Learning Roadmap */}
-
-      <section className="max-w-7xl mx-auto px-6 py-24">
-
-        <div className="text-center mb-16">
-
-          <p className="text-blue-400 uppercase tracking-widest">
-            Development Journey
-          </p>
-
-          <h2 className="text-5xl font-bold mt-4">
-            AI Engineering Roadmap
-          </h2>
-
-        </div>
-
-        <div className="grid md:grid-cols-3 gap-8">
-
-          <div className="bg-slate-900 border border-green-500 rounded-2xl p-8">
-
-            <h3 className="text-3xl font-bold text-green-400">
-              Day 1 ✅
-            </h3>
-
-            <p className="text-gray-400 mt-4">
-              Project understanding, requirements analysis and planning.
-            </p>
-
-          </div>
-
-          <div className="bg-slate-900 border border-blue-500 rounded-2xl p-8">
-
-            <h3 className="text-3xl font-bold text-blue-400">
-              Day 2 ✅
-            </h3>
-
-            <p className="text-gray-400 mt-4">
-              AI architecture, communication design and deployment planning.
-            </p>
-
-          </div>
-
           <div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
 
-            <h3 className="text-3xl font-bold text-purple-400">
-              Day 3 ✅
-            </h3>
+  <h3 className="text-3xl font-bold text-purple-400">
+    📊 Day 4
+  </h3>
 
-            <p className="text-gray-400 mt-4">
-              Environment setup, repository structure, testing and engineering workflow.
-            </p>
+  <p className="text-gray-400 mt-4">
+    Data understanding, resume structured schemas, job description
+    schemas, and AI data entity design.
+  </p>
 
-          </div>
+  <div className="mt-6 text-green-400 font-semibold">
+    ✅ Completed
+  </div>
+
+</div>
+<div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
+
+  <h3 className="text-3xl font-bold text-purple-400">
+    📝 Day 5
+  </h3>
+
+  <p className="text-gray-400 mt-4">
+    Resume text extraction engine, PDF/DOCX parsing, text cleaning,
+    and AI-ready resume output generation.
+  </p>
+
+  <div className="mt-6 text-green-400 font-semibold">
+    ✅ Completed
+  </div>
+
+</div>
 
         </div>
 
