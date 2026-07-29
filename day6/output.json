@@ -1,0 +1,13 @@
+{
+    "role": "Software Engineer",
+    "experience": "2-4 years",
+    "education": "Bachelor's Degree in Computer Science or related field.",
+    "skills": [
+        "Python",
+        "FastAPI",
+        "SQL",
+        "Git",
+        "REST APIs",
+        "Docker"
+    ]
+}

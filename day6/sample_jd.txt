@@ -1,0 +1,21 @@
+Software Engineer
+
+Location: Bangalore
+
+Experience: 2-4 years
+
+Education:
+Bachelor's Degree in Computer Science or related field.
+
+Required Skills:
+Python
+FastAPI
+SQL
+Git
+REST APIs
+Docker
+
+Responsibilities:
+Develop backend APIs.
+Collaborate with AI and frontend teams.
+Write clean and scalable code.
