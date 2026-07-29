@@ -146,6 +146,22 @@ function Home() {
   <div className="mt-6 text-green-400 font-semibold">
     ✅ Completed
   </div>
+  
+  </div>
+ <div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
+
+  <h3 className="text-3xl font-bold text-purple-400">
+    📋 Day 6
+  </h3>
+
+  <p className="text-gray-400 mt-4">
+    Job Description Parsing System to convert employer job descriptions
+    into structured AI-readable job requirement objects.
+  </p>
+
+  <div className="mt-6 text-green-400 font-semibold">
+    ✅ Completed
+  </div>
 
 </div>
 

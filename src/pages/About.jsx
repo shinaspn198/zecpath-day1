@@ -63,22 +63,24 @@ function About() {
 
   </div>
 
-  {/* Timeline */}
+ {/* Timeline */}
 
-  <div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
+<div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
 
-    <h2 className="text-2xl font-bold text-purple-400 mb-6">
-      📅 Internship Timeline
-    </h2>
+  <h2 className="text-2xl font-bold text-purple-400 mb-6">
+    📅 Internship Timeline
+  </h2>
 
-    <ul className="space-y-3 text-gray-300">
-      <li>📘 Day 1 – Completed</li>
-      <li>🤖 Day 2 – Completed</li>
-      <li>🚀 Day 3 – Completed</li>
-      <li>📅 Day 4 – Coming Soon</li>
-    </ul>
+  <ul className="space-y-3 text-gray-300">
+    <li>📘 Day 1 – Completed</li>
+    <li>🤖 Day 2 – Completed</li>
+    <li>🚀 Day 3 – Completed</li>
+    <li>📊 Day 4 – Completed</li>
+    <li>📝 Day 5 – Completed</li>
+    <li>📋 Day 6 – Completed</li>
+  </ul>
 
-  </div>
+</div>
 
 </div>
       </section>
