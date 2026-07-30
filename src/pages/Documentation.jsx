@@ -66,6 +66,14 @@ function Documentation() {
 
   <p>Job Description Parsing System</p>
 </Link>
+
+<Link to="/day7" className="doc-card">
+  <span className="badge completed">Completed</span>
+
+  <h2>📊 Day 7</h2>
+
+  <p>AI Data Pipeline & Storage Design</p>
+</Link>
         </div>
 
       </div>

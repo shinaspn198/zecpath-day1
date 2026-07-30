@@ -72,13 +72,14 @@ function About() {
   </h2>
 
   <ul className="space-y-3 text-gray-300">
-    <li>📘 Day 1 – Completed</li>
-    <li>🤖 Day 2 – Completed</li>
-    <li>🚀 Day 3 – Completed</li>
-    <li>📊 Day 4 – Completed</li>
-    <li>📝 Day 5 – Completed</li>
-    <li>📋 Day 6 – Completed</li>
-  </ul>
+  <li>📘 Day 1 – Completed</li>
+  <li>🤖 Day 2 – Completed</li>
+  <li>🚀 Day 3 – Completed</li>
+  <li>📊 Day 4 – Completed</li>
+  <li>📝 Day 5 – Completed</li>
+  <li>📋 Day 6 – Completed</li>
+  <li>📊 Day 7 – Completed</li>
+</ul>
 
 </div>
 

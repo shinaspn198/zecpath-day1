@@ -164,6 +164,22 @@ function Home() {
   </div>
 
 </div>
+<div className="bg-slate-900 border border-cyan-500 rounded-2xl p-8">
+
+  <h3 className="text-3xl font-bold text-cyan-400">
+    📊 Day 7
+  </h3>
+
+  <p className="text-gray-400 mt-4">
+    Designed the AI data pipeline, storage architecture, metadata standards,
+    and dataset versioning strategy for the Zecpath AI recruitment platform.
+  </p>
+
+  <div className="mt-6 text-green-400 font-semibold">
+    ✅ Completed
+  </div>
+
+</div>
 
         </div>
 
