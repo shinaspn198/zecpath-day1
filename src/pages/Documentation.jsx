@@ -74,6 +74,15 @@ function Documentation() {
 
   <p>AI Data Pipeline & Storage Design</p>
 </Link>
+
+
+<Link to="/day8" className="doc-card">
+  <span className="badge completed">Completed</span>
+
+  <h2>🧠 Day 8</h2>
+
+  <p>Resume Section Segmentation</p>
+</Link>
         </div>
 
       </div>
