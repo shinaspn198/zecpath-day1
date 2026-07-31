@@ -53,14 +53,31 @@ function About() {
       🛠 Technologies
     </h2>
 
-    <ul className="space-y-3 text-gray-300">
-      <li>⚛️ React</li>
-      <li>⚡ Vite</li>
-      <li>🎨 Tailwind CSS</li>
-      <li>🛣 React Router</li>
-      <li>🐙 Git & GitHub</li>
-    </ul>
+   <ul className="space-y-3 text-gray-300">
 
+  <li>⚛️ React.js</li>
+  <li>⚡ Vite</li>
+  <li>🎨 Tailwind CSS</li>
+  <li>🛣 React Router</li>
+
+  <li>🐍 Python</li>
+  <li>🤖 Machine Learning</li>
+  <li>🧠 Natural Language Processing (NLP)</li>
+  <li>📄 Resume Parsing & Text Extraction</li>
+  <li>🔎 NLP-based Section Classification</li>
+
+  <li>⚙️ FastAPI</li>
+  <li>📊 Pandas & NumPy</li>
+  <li>🤖 Scikit-learn</li>
+  <li>🔤 TF-IDF & Text Vectorization</li>
+
+  <li>🗄️ Database & Data Storage</li>
+  <li>🔗 REST API Development</li>
+
+  <li>🐙 Git & GitHub</li>
+  <li>🚀 Vercel Deployment</li>
+
+</ul>
   </div>
 
  {/* Timeline */}
