@@ -83,6 +83,14 @@ function Documentation() {
 
   <p>Resume Section Segmentation</p>
 </Link>
+
+<Link to="/day9" className="doc-card">
+  <span className="badge completed">Completed</span>
+
+  <h2>🧠 Day 9</h2>
+
+  <p>Resume Skill Extraction Engine</p>
+</Link>
         </div>
 
       </div>

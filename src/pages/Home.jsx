@@ -205,6 +205,24 @@ function Home() {
 
 </div>
 
+<div className="bg-slate-900 border border-indigo-500 rounded-2xl p-8">
+
+  <h3 className="text-3xl font-bold text-indigo-400">
+    🧠 Day 9
+  </h3>
+
+  <p className="text-gray-400 mt-4">
+    Developed an AI-powered Resume Skill Extraction Engine featuring
+    synonym normalization, technology stack detection, confidence
+    scoring, and structured skill output for downstream recruitment AI.
+  </p>
+
+  <div className="mt-6 text-green-400 font-semibold">
+    ✅ Completed
+  </div>
+
+</div>
+
         </div>
 
       </section>
