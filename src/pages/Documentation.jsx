@@ -91,6 +91,14 @@ function Documentation() {
 
   <p>Resume Skill Extraction Engine</p>
 </Link>
+
+<Link to="/day10" className="doc-card">
+  <span className="badge completed">Completed</span>
+
+  <h2>💼 Day 10</h2>
+
+  <p>Experience Parsing & Relevance Engine</p>
+</Link>
         </div>
 
       </div>

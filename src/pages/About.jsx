@@ -88,7 +88,7 @@ function About() {
     📅 Internship Timeline
   </h2>
 
-  <ul className="space-y-3 text-gray-300">
+ <ul className="space-y-3 text-gray-300">
   <li>📘 Day 1 – Completed</li>
   <li>🤖 Day 2 – Completed</li>
   <li>🚀 Day 3 – Completed</li>
@@ -98,6 +98,7 @@ function About() {
   <li>📊 Day 7 – Completed</li>
   <li>🧠 Day 8 – Completed</li>
   <li>🧠 Day 9 – Completed</li>
+  <li>💼 Day 10 – Completed</li>
 </ul>
 
 </div>

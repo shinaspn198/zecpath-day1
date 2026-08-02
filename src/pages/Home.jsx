@@ -205,6 +205,8 @@ function Home() {
 
 </div>
 
+{/* Day 9 */}
+
 <div className="bg-slate-900 border border-indigo-500 rounded-2xl p-8">
 
   <h3 className="text-3xl font-bold text-indigo-400">
@@ -223,14 +225,35 @@ function Home() {
 
 </div>
 
-        </div>
+{/* Day 10 */}
 
-      </section>
+<div className="bg-slate-900 border border-emerald-500 rounded-2xl p-8">
 
-      <Footer />
+  <h3 className="text-3xl font-bold text-emerald-400">
+    💼 Day 10
+  </h3>
 
-    </div>
-  );
+  <p className="text-gray-400 mt-4">
+    Developed an AI-powered Experience Parsing & Relevance Engine capable
+    of extracting work experience, generating structured experience
+    objects, and evaluating candidate experience relevance for target
+    job roles.
+  </p>
+
+  <div className="mt-6 text-green-400 font-semibold">
+    ✅ Completed
+  </div>
+
+</div>
+
+      </div>
+
+    </section>
+
+    <Footer />
+
+  </div>
+);
 }
 
 export default Home;
