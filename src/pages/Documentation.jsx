@@ -99,6 +99,14 @@ function Documentation() {
 
   <p>Experience Parsing & Relevance Engine</p>
 </Link>
+
+<Link to="/day11" className="doc-card">
+  <span className="badge completed">Completed</span>
+
+  <h2>🎓 Day 11</h2>
+
+  <p>Education & Certification Parsing Engine</p>
+</Link>
         </div>
 
       </div>

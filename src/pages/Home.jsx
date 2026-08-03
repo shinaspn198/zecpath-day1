@@ -245,7 +245,26 @@ function Home() {
   </div>
 
 </div>
+{/* Day 11 */}
 
+<div className="bg-slate-900 border border-yellow-500 rounded-2xl p-8">
+
+  <h3 className="text-3xl font-bold text-yellow-400">
+    🎓 Day 11
+  </h3>
+
+  <p className="text-gray-400 mt-4">
+    Developed an AI-powered Education & Certification Parsing Engine
+    capable of extracting academic qualifications, institutions,
+    certifications, generating structured education profiles, and
+    evaluating education relevance for AI recruitment systems.
+  </p>
+
+  <div className="mt-6 text-green-400 font-semibold">
+    ✅ Completed
+  </div>
+
+</div>
       </div>
 
     </section>
