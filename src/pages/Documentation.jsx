@@ -107,6 +107,14 @@ function Documentation() {
 
   <p>Education & Certification Parsing Engine</p>
 </Link>
+
+<Link to="/day12" className="doc-card">
+  <span className="badge completed">Completed</span>
+
+  <h2>🤝 Day 12</h2>
+
+  <p>Semantic Resume–Job Matching Engine</p>
+</Link>
         </div>
 
       </div>

@@ -100,6 +100,7 @@ function About() {
   <li>🧠 Day 9 – Completed</li>
   <li>💼 Day 10 – Completed</li>
   <li>🎓 Day 11 – Completed</li>
+  <li>🧠 Day 12 – Completed</li>
 </ul>
 
 </div>
