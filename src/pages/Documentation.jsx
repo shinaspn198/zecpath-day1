@@ -115,6 +115,14 @@ function Documentation() {
 
   <p>Semantic Resume–Job Matching Engine</p>
 </Link>
+
+<Link to="/day13" className="doc-card">
+  <span className="badge completed">Completed</span>
+
+  <h2>📈 Day 13</h2>
+
+  <p>ATS Scoring Formula Design</p>
+</Link>
         </div>
 
       </div>

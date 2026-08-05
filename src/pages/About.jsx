@@ -59,6 +59,7 @@ function About() {
   <li>⚡ Vite</li>
   <li>🎨 Tailwind CSS</li>
   <li>🛣 React Router</li>
+  
 
   <li>🐍 Python</li>
   <li>🤖 Machine Learning</li>
@@ -70,6 +71,10 @@ function About() {
   <li>📊 Pandas & NumPy</li>
   <li>🤖 Scikit-learn</li>
   <li>🔤 TF-IDF & Text Vectorization</li>
+  <li>📊 ATS Scoring Engine</li>
+<li>⚖️ Weighted Scoring Algorithms</li>
+<li>📄 JSON Configuration</li>
+<li>🧮 Explainable AI Scoring</li>
 
   <li>🗄️ Database & Data Storage</li>
   <li>🔗 REST API Development</li>
@@ -101,6 +106,7 @@ function About() {
   <li>💼 Day 10 – Completed</li>
   <li>🎓 Day 11 – Completed</li>
   <li>🧠 Day 12 – Completed</li>
+  <li>📈 Day 13 – Completed</li>
 </ul>
 
 </div>

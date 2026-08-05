@@ -285,6 +285,27 @@ function Home() {
   </div>
 
 </div>
+{/* Day 13 */}
+
+<div className="bg-slate-900 border border-red-500 rounded-2xl p-8">
+
+  <h3 className="text-3xl font-bold text-red-400">
+    📈 Day 13
+  </h3>
+
+  <p className="text-gray-400 mt-4">
+    Designed and implemented an AI-powered ATS Scoring Formula
+    that evaluates candidates using configurable weighted
+    parameters including skill match, experience relevance,
+    education alignment, and semantic similarity to generate
+    transparent and explainable ATS scores.
+  </p>
+
+  <div className="mt-6 text-green-400 font-semibold">
+    ✅ Completed
+  </div>
+
+</div>
       </div>
 
     </section>
