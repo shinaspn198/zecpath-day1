@@ -306,6 +306,28 @@ function Home() {
   </div>
 
 </div>
+{/* Day 14 */}
+
+<div className="bg-slate-900 border border-orange-500 rounded-2xl p-8">
+
+  <h3 className="text-3xl font-bold text-orange-400">
+    🏆 Day 14
+  </h3>
+
+  <p className="text-gray-400 mt-4">
+    Developed an AI-powered Candidate Ranking & Shortlisting Engine
+    that automatically ranks candidates based on ATS scores,
+    applies configurable shortlisting thresholds, classifies
+    candidates into Shortlisted, Review, and Rejected categories,
+    and generates recruiter-friendly ranking reports.
+  </p>
+
+  <div className="mt-6 text-green-400 font-semibold">
+    ✅ Completed
+  </div>
+
+</div>
+
       </div>
 
     </section>

@@ -123,6 +123,13 @@ function Documentation() {
 
   <p>ATS Scoring Formula Design</p>
 </Link>
+<Link to="/day14" className="doc-card">
+  <span className="badge completed">Completed</span>
+
+  <h2>🏆 Day 14</h2>
+
+  <p>Candidate Ranking & Shortlisting Engine</p>
+</Link>
         </div>
 
       </div>

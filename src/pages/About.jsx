@@ -75,6 +75,8 @@ function About() {
 <li>⚖️ Weighted Scoring Algorithms</li>
 <li>📄 JSON Configuration</li>
 <li>🧮 Explainable AI Scoring</li>
+<li>🏆 Candidate Ranking Engine</li>
+<li>✅ Candidate Shortlisting Automation</li>
 
   <li>🗄️ Database & Data Storage</li>
   <li>🔗 REST API Development</li>
@@ -106,7 +108,8 @@ function About() {
   <li>💼 Day 10 – Completed</li>
   <li>🎓 Day 11 – Completed</li>
   <li>🧠 Day 12 – Completed</li>
-  <li>📈 Day 13 – Completed</li>
+<li>📈 Day 13 – Completed</li>
+<li>🏆 Day 14 – Completed</li>
 </ul>
 
 </div>
