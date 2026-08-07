@@ -60,6 +60,7 @@ function About() {
   <li>🎨 Tailwind CSS</li>
   <li>🛣 React Router</li>
   
+  
 
   <li>🐍 Python</li>
   <li>🤖 Machine Learning</li>
@@ -77,6 +78,10 @@ function About() {
 <li>🧮 Explainable AI Scoring</li>
 <li>🏆 Candidate Ranking Engine</li>
 <li>✅ Candidate Shortlisting Automation</li>
+<li>⚖️ Resume Normalization</li>
+<li>🛡️ Fairness & Bias Detection</li>
+<li>👤 Sensitive Attribute Masking</li>
+<li>📋 Standardized Resume Processing</li>
 
   <li>🗄️ Database & Data Storage</li>
   <li>🔗 REST API Development</li>
@@ -110,6 +115,7 @@ function About() {
   <li>🧠 Day 12 – Completed</li>
 <li>📈 Day 13 – Completed</li>
 <li>🏆 Day 14 – Completed</li>
+<li>⚖️ Day 15 – Completed</li>
 </ul>
 
 </div>

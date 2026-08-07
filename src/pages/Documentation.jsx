@@ -130,6 +130,13 @@ function Documentation() {
 
   <p>Candidate Ranking & Shortlisting Engine</p>
 </Link>
+<Link to="/day15" className="doc-card">
+  <span className="badge completed">Completed</span>
+
+  <h2>⚖️ Day 15</h2>
+
+  <p>Resume Normalization & Fairness Engine</p>
+</Link>
         </div>
 
       </div>

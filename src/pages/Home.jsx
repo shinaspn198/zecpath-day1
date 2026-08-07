@@ -327,7 +327,26 @@ function Home() {
   </div>
 
 </div>
+{/* Day 15 */}
 
+<div className="bg-slate-900 border border-teal-500 rounded-2xl p-8">
+
+  <h3 className="text-3xl font-bold text-teal-400">
+    ⚖️ Day 15
+  </h3>
+
+  <p className="text-gray-400 mt-4">
+    Developed an AI-powered Resume Normalization & Fairness Engine
+    that standardizes resume data, identifies sensitive attributes,
+    supports bias-aware candidate evaluation, and prepares fair,
+    consistent inputs for AI-driven recruitment systems.
+  </p>
+
+  <div className="mt-6 text-green-400 font-semibold">
+    ✅ Completed
+  </div>
+
+</div>
       </div>
 
     </section>
