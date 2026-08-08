@@ -347,6 +347,26 @@ function Home() {
   </div>
 
 </div>
+{/* Day 16 */}
+
+<div className="bg-slate-900 border border-cyan-500 rounded-2xl p-8">
+
+  <h3 className="text-3xl font-bold text-cyan-400">
+    🚀 Day 16
+  </h3>
+
+  <p className="text-gray-400 mt-4">
+    Developed a FastAPI-based ATS API layer that makes Zecpath AI
+    recruitment functionality consumable by backend systems through
+    standardized REST APIs, structured schemas, asynchronous job
+    processing, centralized error handling, and API logging.
+  </p>
+
+  <div className="mt-6 text-green-400 font-semibold">
+    ✅ Completed
+  </div>
+
+</div>
       </div>
 
     </section>

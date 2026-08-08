@@ -137,6 +137,13 @@ function Documentation() {
 
   <p>Resume Normalization & Fairness Engine</p>
 </Link>
+<Link to="/day16" className="doc-card">
+  <span className="badge completed">Completed</span>
+
+  <h2>🚀 Day 16</h2>
+
+  <p>ATS API Specification & Integration</p>
+</Link>
         </div>
 
       </div>
