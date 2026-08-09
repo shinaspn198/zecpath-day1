@@ -367,6 +367,26 @@ function Home() {
   </div>
 
 </div>
+{/* Day 17 */}
+
+<div className="bg-slate-900 border border-violet-500 rounded-2xl p-8">
+
+  <h3 className="text-3xl font-bold text-violet-400">
+    🧪 Day 17
+  </h3>
+
+  <p className="text-gray-400 mt-4">
+    Tested and validated the ATS scoring and candidate shortlisting
+    system using controlled candidate scenarios, boundary testing,
+    FastAPI integration testing, accuracy evaluation, and improvement
+    analysis.
+  </p>
+
+  <div className="mt-6 text-green-400 font-semibold">
+    ✅ Completed
+  </div>
+
+</div>
       </div>
 
     </section>

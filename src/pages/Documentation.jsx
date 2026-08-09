@@ -144,6 +144,13 @@ function Documentation() {
 
   <p>ATS API Specification & Integration</p>
 </Link>
+<Link to="/day17" className="doc-card">
+  <span className="badge completed">Completed</span>
+
+  <h2>🧪 Day 17</h2>
+
+  <p>ATS Testing & Accuracy Evaluation</p>
+</Link>
         </div>
 
       </div>
