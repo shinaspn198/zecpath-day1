@@ -129,17 +129,16 @@ function About() {
               <li>🧪 Day 17 – Completed</li>
               <li>📊 Day 18 – Completed</li>
               <li>🎯 Day 19 – Completed</li>
-
+              <li>🏁 Day 20 – Completed</li>
             </ul>
 
           </div>
 
         </div>
 
-        {/* Day 18 & Day 19 Progress */}
+       {/* Day 18, Day 19 & Day 20 Progress */}
 
-        <div className="grid md:grid-cols-2 gap-8 mt-12">
-
+        <div className="grid md:grid-cols-3 gap-8 mt-12">
           {/* Day 18 */}
 
           <div className="bg-slate-900 border border-blue-500 rounded-2xl p-8">
@@ -187,7 +186,29 @@ function About() {
             </div>
 
           </div>
+        {/* Day 20 */}
 
+<div className="bg-slate-900 border border-green-500 rounded-2xl p-8">
+
+  <h2 className="text-3xl font-bold text-green-400">
+    🏁 Day 20
+  </h2>
+
+  <p className="text-gray-400 mt-4">
+    Final ATS Evaluation & Candidate Ranking
+  </p>
+
+  <p className="text-gray-400 mt-4">
+    Completed the final evaluation workflow by validating skill
+    extraction accuracy, ATS scoring, candidate ranking, and
+    automated shortlisting decisions through the recruitment API.
+  </p>
+
+  <div className="mt-6 text-green-400 font-semibold">
+    ✅ Completed
+  </div>
+
+</div>
         </div>
 
       </section>

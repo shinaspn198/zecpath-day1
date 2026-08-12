@@ -21,6 +21,7 @@ import Day16 from "./pages/Day16";
 import Day17 from "./pages/Day17";
 import Day18 from "./pages/Day18";
 import Day19 from "./pages/Day19";
+import Day20 from "./pages/Day20";
 import About from "./pages/About";
 import Documentation from "./pages/Documentation";
 
@@ -31,7 +32,6 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/documentation" element={<Documentation />} />
-
         <Route path="/day1" element={<Day1 />} />
         <Route path="/day2" element={<Day2 />} />
         <Route path="/day3" element={<Day3 />} />
@@ -51,6 +51,7 @@ function App() {
        <Route path="/day17" element={<Day17 />} />
        <Route path="/day18" element={<Day18 />} />
        <Route path="/day19" element={<Day19 />} />   
+       <Route path="/day20" element={<Day20 />} />  
         <Route path="*" element={<NotFound />} />
       </Routes>
     </BrowserRouter>

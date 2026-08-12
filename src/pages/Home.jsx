@@ -393,7 +393,24 @@ function Home() {
               ✅ Completed
             </div>
           </div>
+        
+        {/* Day 20 */}
+<div className="bg-slate-900 border border-green-500 rounded-2xl p-8">
+  <h3 className="text-3xl font-bold text-green-400">
+    🏁 Day 20
+  </h3>
 
+  <p className="text-gray-400 mt-4">
+    Completed the final ATS evaluation and production-readiness
+    validation of the Zecpath AI recruitment platform, including
+    skill extraction accuracy, ATS scoring, candidate ranking,
+    shortlisting decisions, and API validation.
+  </p>
+
+  <div className="mt-6 text-green-400 font-semibold">
+    ✅ Completed
+  </div>
+</div>
         </div>
 
       </section>
