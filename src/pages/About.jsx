@@ -22,109 +22,176 @@ function About() {
           <p className="text-gray-400 text-lg mt-6 max-w-3xl mx-auto">
             This documentation portal showcases my AI Engineering internship
             journey at Zecpath AI, including daily learning, technical
-            documentation, system architecture, and project deliverables.
+            documentation, system architecture, AI recruitment workflows,
+            and project deliverables.
           </p>
 
         </div>
-      <div className="grid md:grid-cols-3 gap-8 mt-20">
 
-  {/* Objectives */}
+        <div className="grid md:grid-cols-3 gap-8 mt-20">
 
-  <div className="bg-slate-900 border border-blue-500 rounded-2xl p-8">
+          {/* Objectives */}
 
-    <h2 className="text-2xl font-bold text-blue-400 mb-6">
-      🎯 Objectives
-    </h2>
+          <div className="bg-slate-900 border border-blue-500 rounded-2xl p-8">
 
-    <ul className="space-y-3 text-gray-300">
-      <li>✅ Document daily internship learning</li>
-      <li>✅ Build a professional documentation portal</li>
-      <li>✅ Learn AI Engineering workflows</li>
-      <li>✅ Track project progress</li>
-    </ul>
+            <h2 className="text-2xl font-bold text-blue-400 mb-6">
+              🎯 Objectives
+            </h2>
 
-  </div>
+            <ul className="space-y-3 text-gray-300">
+              <li>✅ Document daily internship learning</li>
+              <li>✅ Build a professional documentation portal</li>
+              <li>✅ Learn AI Engineering workflows</li>
+              <li>✅ Develop AI recruitment components</li>
+              <li>✅ Integrate AI modules through REST APIs</li>
+              <li>✅ Track project progress and deliverables</li>
+            </ul>
 
-  {/* Technologies */}
+          </div>
 
-  <div className="bg-slate-900 border border-green-500 rounded-2xl p-8">
+          {/* Technologies */}
 
-    <h2 className="text-2xl font-bold text-green-400 mb-6">
-      🛠 Technologies
-    </h2>
+          <div className="bg-slate-900 border border-green-500 rounded-2xl p-8">
 
-   <ul className="space-y-3 text-gray-300">
+            <h2 className="text-2xl font-bold text-green-400 mb-6">
+              🛠 Technologies
+            </h2>
 
-  <li>⚛️ React.js</li>
-  <li>⚡ Vite</li>
-  <li>🎨 Tailwind CSS</li>
-  <li>🛣 React Router</li>
-  
-  
+            <ul className="space-y-3 text-gray-300">
 
-  <li>🐍 Python</li>
-  <li>🤖 Machine Learning</li>
-  <li>🧠 Natural Language Processing (NLP)</li>
-  <li>📄 Resume Parsing & Text Extraction</li>
-  <li>🔎 NLP-based Section Classification</li>
+              <li>⚛️ React.js</li>
+              <li>⚡ Vite</li>
+              <li>🎨 Tailwind CSS</li>
+              <li>🛣️ React Router</li>
 
-  <li>⚙️ FastAPI</li>
-  <li>📊 Pandas & NumPy</li>
-  <li>🤖 Scikit-learn</li>
-  <li>🔤 TF-IDF & Text Vectorization</li>
-  <li>📊 ATS Scoring Engine</li>
-<li>⚖️ Weighted Scoring Algorithms</li>
-<li>📄 JSON Configuration</li>
-<li>🧮 Explainable AI Scoring</li>
-<li>🏆 Candidate Ranking Engine</li>
-<li>✅ Candidate Shortlisting Automation</li>
-<li>⚖️ Resume Normalization</li>
-<li>🛡️ Fairness & Bias Detection</li>
-<li>👤 Sensitive Attribute Masking</li>
-<li>📋 Standardized Resume Processing</li>
+              <li>🐍 Python</li>
+              <li>🤖 Machine Learning</li>
+              <li>🧠 Natural Language Processing (NLP)</li>
 
-  <li>🗄️ Database & Data Storage</li>
-  <li>🔗 REST API Development</li>
+              <li>📄 Resume Parsing & Text Extraction</li>
+              <li>🔎 NLP-based Section Classification</li>
+              <li>🔤 TF-IDF & Text Vectorization</li>
 
-  <li>🐙 Git & GitHub</li>
-  <li>🚀 Vercel Deployment</li>
+              <li>⚙️ FastAPI</li>
+              <li>📊 Pandas & NumPy</li>
+              <li>🤖 Scikit-learn</li>
 
-</ul>
-  </div>
+              <li>📊 ATS Scoring Engine</li>
+              <li>⚖️ Weighted Scoring Algorithms</li>
+              <li>📄 JSON Configuration</li>
+              <li>🧮 Explainable AI Scoring</li>
 
- {/* Timeline */}
+              <li>🏆 Candidate Ranking Engine</li>
+              <li>✅ Candidate Shortlisting Automation</li>
+              <li>🎯 Candidate Evaluation Workflow</li>
 
-<div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
+              <li>⚖️ Resume Normalization</li>
+              <li>🛡️ Fairness & Bias Detection</li>
+              <li>👤 Sensitive Attribute Masking</li>
+              <li>📋 Standardized Resume Processing</li>
 
-  <h2 className="text-2xl font-bold text-purple-400 mb-6">
-    📅 Internship Timeline
-  </h2>
+              <li>🔗 REST API Development</li>
+              <li>🗄️ Database & Data Storage</li>
 
- <ul className="space-y-3 text-gray-300">
-  <li>📘 Day 1 – Completed</li>
-  <li>🤖 Day 2 – Completed</li>
-  <li>🚀 Day 3 – Completed</li>
-  <li>📊 Day 4 – Completed</li>
-  <li>📝 Day 5 – Completed</li>
-  <li>📋 Day 6 – Completed</li>
-  <li>📊 Day 7 – Completed</li>
-  <li>🧠 Day 8 – Completed</li>
-  <li>🧠 Day 9 – Completed</li>
-  <li>💼 Day 10 – Completed</li>
-  <li>🎓 Day 11 – Completed</li>
-  <li>🧠 Day 12 – Completed</li>
-<li>📈 Day 13 – Completed</li>
-<li>🏆 Day 14 – Completed</li>
-<li>⚖️ Day 15 – Completed</li>
-<li>🚀 Day 16 – Completed</li>
-<li>🧪 Day 17 – Completed</li>
-</ul>
+              <li>🐙 Git & GitHub</li>
+              <li>🚀 Vercel Deployment</li>
 
-</div>
+            </ul>
 
-</div>
+          </div>
+
+          {/* Timeline */}
+
+          <div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
+
+            <h2 className="text-2xl font-bold text-purple-400 mb-6">
+              📅 Internship Timeline
+            </h2>
+
+            <ul className="space-y-3 text-gray-300">
+
+              <li>📘 Day 1 – Completed</li>
+              <li>🤖 Day 2 – Completed</li>
+              <li>🚀 Day 3 – Completed</li>
+              <li>📊 Day 4 – Completed</li>
+              <li>📝 Day 5 – Completed</li>
+              <li>📋 Day 6 – Completed</li>
+              <li>📊 Day 7 – Completed</li>
+              <li>🧠 Day 8 – Completed</li>
+              <li>🧠 Day 9 – Completed</li>
+              <li>💼 Day 10 – Completed</li>
+              <li>🎓 Day 11 – Completed</li>
+              <li>🧠 Day 12 – Completed</li>
+              <li>📈 Day 13 – Completed</li>
+              <li>🏆 Day 14 – Completed</li>
+              <li>⚖️ Day 15 – Completed</li>
+              <li>🚀 Day 16 – Completed</li>
+              <li>🧪 Day 17 – Completed</li>
+              <li>📊 Day 18 – Completed</li>
+              <li>🎯 Day 19 – Completed</li>
+
+            </ul>
+
+          </div>
+
+        </div>
+
+        {/* Day 18 & Day 19 Progress */}
+
+        <div className="grid md:grid-cols-2 gap-8 mt-12">
+
+          {/* Day 18 */}
+
+          <div className="bg-slate-900 border border-blue-500 rounded-2xl p-8">
+
+            <h2 className="text-3xl font-bold text-blue-400">
+              📊 Day 18
+            </h2>
+
+            <p className="text-gray-400 mt-4">
+              ATS Scoring & Candidate Evaluation
+            </p>
+
+            <p className="text-gray-400 mt-4">
+              Implemented the ATS scoring and candidate evaluation workflow
+              using role-specific scoring configurations, weighted evaluation
+              logic, and API-based integration.
+            </p>
+
+            <div className="mt-6 text-green-400 font-semibold">
+              ✅ Completed
+            </div>
+
+          </div>
+
+          {/* Day 19 */}
+
+          <div className="bg-slate-900 border border-amber-500 rounded-2xl p-8">
+
+            <h2 className="text-3xl font-bold text-amber-400">
+              🎯 Day 19
+            </h2>
+
+            <p className="text-gray-400 mt-4">
+              Candidate Shortlisting System
+            </p>
+
+            <p className="text-gray-400 mt-4">
+              Connected ATS scores with automated recruitment decisions
+              and validated the FastAPI shortlisting workflow using
+              candidate scoring scenarios.
+            </p>
+
+            <div className="mt-6 text-green-400 font-semibold">
+              ✅ Completed
+            </div>
+
+          </div>
+
+        </div>
+
       </section>
-    
+
       <Footer />
 
     </div>
