@@ -23,6 +23,7 @@ import Day18 from "./pages/Day18";
 import Day19 from "./pages/Day19";
 import Day20 from "./pages/Day20";
 import About from "./pages/About";
+import Day21 from "./pages/Day21";
 import Documentation from "./pages/Documentation";
 
 function App() {
@@ -52,6 +53,7 @@ function App() {
        <Route path="/day18" element={<Day18 />} />
        <Route path="/day19" element={<Day19 />} />   
        <Route path="/day20" element={<Day20 />} />  
+       <Route path="/day21" element={<Day21 />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
     </BrowserRouter>

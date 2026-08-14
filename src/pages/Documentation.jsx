@@ -141,6 +141,20 @@ function Documentation() {
      <h2>🏁 Day 20</h2>
      <p>Final ATS Evaluation & Production Readiness</p>
       </Link>
+
+      {/* DAY 20 */}
+<Link to="/day20" className="doc-card">
+  <span className="badge completed">Completed</span>
+  <h2>🏁 Day 20</h2>
+  <p>Final ATS Evaluation & Production Readiness</p>
+</Link>
+
+{/* DAY 21 */}
+<Link to="/day21" className="doc-card">
+  <span className="badge completed">Completed</span>
+  <h2>⚙️ Day 21</h2>
+  <p>Eligibility Decision Engine</p>
+</Link>
         </div>
 
       </div>

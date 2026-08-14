@@ -68,6 +68,7 @@ function Home() {
 
           {/* Day 1 */}
           <div className="bg-slate-900 border border-blue-500 rounded-2xl p-8">
+
             <h3 className="text-3xl font-bold text-blue-400">
               📘 Day 1
             </h3>
@@ -79,10 +80,12 @@ function Home() {
             <div className="mt-6 text-green-400 font-semibold">
               ✅ Completed
             </div>
+
           </div>
 
           {/* Day 2 */}
           <div className="bg-slate-900 border border-green-500 rounded-2xl p-8">
+
             <h3 className="text-3xl font-bold text-green-400">
               🤖 Day 2
             </h3>
@@ -94,10 +97,12 @@ function Home() {
             <div className="mt-6 text-green-400 font-semibold">
               ✅ Completed
             </div>
+
           </div>
 
           {/* Day 3 */}
           <div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
+
             <h3 className="text-3xl font-bold text-purple-400">
               🚀 Day 3
             </h3>
@@ -110,10 +115,12 @@ function Home() {
             <div className="mt-6 text-green-400 font-semibold">
               ✅ Completed
             </div>
+
           </div>
 
           {/* Day 4 */}
           <div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
+
             <h3 className="text-3xl font-bold text-purple-400">
               📊 Day 4
             </h3>
@@ -126,10 +133,12 @@ function Home() {
             <div className="mt-6 text-green-400 font-semibold">
               ✅ Completed
             </div>
+
           </div>
 
           {/* Day 5 */}
           <div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
+
             <h3 className="text-3xl font-bold text-purple-400">
               📝 Day 5
             </h3>
@@ -142,10 +151,12 @@ function Home() {
             <div className="mt-6 text-green-400 font-semibold">
               ✅ Completed
             </div>
+
           </div>
 
           {/* Day 6 */}
           <div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
+
             <h3 className="text-3xl font-bold text-purple-400">
               📋 Day 6
             </h3>
@@ -158,10 +169,12 @@ function Home() {
             <div className="mt-6 text-green-400 font-semibold">
               ✅ Completed
             </div>
+
           </div>
 
           {/* Day 7 */}
           <div className="bg-slate-900 border border-cyan-500 rounded-2xl p-8">
+
             <h3 className="text-3xl font-bold text-cyan-400">
               📊 Day 7
             </h3>
@@ -175,10 +188,12 @@ function Home() {
             <div className="mt-6 text-green-400 font-semibold">
               ✅ Completed
             </div>
+
           </div>
 
           {/* Day 8 */}
           <div className="bg-slate-900 border border-cyan-500 rounded-2xl p-8">
+
             <h3 className="text-3xl font-bold text-cyan-400">
               🧠 Day 8
             </h3>
@@ -193,10 +208,12 @@ function Home() {
             <div className="mt-6 text-green-400 font-semibold">
               ✅ Completed
             </div>
+
           </div>
 
           {/* Day 9 */}
           <div className="bg-slate-900 border border-indigo-500 rounded-2xl p-8">
+
             <h3 className="text-3xl font-bold text-indigo-400">
               🧠 Day 9
             </h3>
@@ -210,10 +227,12 @@ function Home() {
             <div className="mt-6 text-green-400 font-semibold">
               ✅ Completed
             </div>
+
           </div>
 
           {/* Day 10 */}
           <div className="bg-slate-900 border border-emerald-500 rounded-2xl p-8">
+
             <h3 className="text-3xl font-bold text-emerald-400">
               💼 Day 10
             </h3>
@@ -228,10 +247,12 @@ function Home() {
             <div className="mt-6 text-green-400 font-semibold">
               ✅ Completed
             </div>
+
           </div>
 
           {/* Day 11 */}
           <div className="bg-slate-900 border border-yellow-500 rounded-2xl p-8">
+
             <h3 className="text-3xl font-bold text-yellow-400">
               🎓 Day 11
             </h3>
@@ -246,10 +267,12 @@ function Home() {
             <div className="mt-6 text-green-400 font-semibold">
               ✅ Completed
             </div>
+
           </div>
 
           {/* Day 12 */}
           <div className="bg-slate-900 border border-pink-500 rounded-2xl p-8">
+
             <h3 className="text-3xl font-bold text-pink-400">
               🧠 Day 12
             </h3>
@@ -264,10 +287,12 @@ function Home() {
             <div className="mt-6 text-green-400 font-semibold">
               ✅ Completed
             </div>
+
           </div>
 
           {/* Day 13 */}
           <div className="bg-slate-900 border border-red-500 rounded-2xl p-8">
+
             <h3 className="text-3xl font-bold text-red-400">
               📈 Day 13
             </h3>
@@ -283,10 +308,12 @@ function Home() {
             <div className="mt-6 text-green-400 font-semibold">
               ✅ Completed
             </div>
+
           </div>
 
           {/* Day 14 */}
           <div className="bg-slate-900 border border-orange-500 rounded-2xl p-8">
+
             <h3 className="text-3xl font-bold text-orange-400">
               🏆 Day 14
             </h3>
@@ -302,10 +329,12 @@ function Home() {
             <div className="mt-6 text-green-400 font-semibold">
               ✅ Completed
             </div>
+
           </div>
 
           {/* Day 15 */}
           <div className="bg-slate-900 border border-teal-500 rounded-2xl p-8">
+
             <h3 className="text-3xl font-bold text-teal-400">
               ⚖️ Day 15
             </h3>
@@ -320,10 +349,12 @@ function Home() {
             <div className="mt-6 text-green-400 font-semibold">
               ✅ Completed
             </div>
+
           </div>
 
           {/* Day 16 */}
           <div className="bg-slate-900 border border-cyan-500 rounded-2xl p-8">
+
             <h3 className="text-3xl font-bold text-cyan-400">
               🚀 Day 16
             </h3>
@@ -338,10 +369,12 @@ function Home() {
             <div className="mt-6 text-green-400 font-semibold">
               ✅ Completed
             </div>
+
           </div>
 
           {/* Day 17 */}
           <div className="bg-slate-900 border border-violet-500 rounded-2xl p-8">
+
             <h3 className="text-3xl font-bold text-violet-400">
               🧪 Day 17
             </h3>
@@ -356,10 +389,12 @@ function Home() {
             <div className="mt-6 text-green-400 font-semibold">
               ✅ Completed
             </div>
+
           </div>
 
           {/* Day 18 */}
           <div className="bg-slate-900 border border-blue-500 rounded-2xl p-8">
+
             <h3 className="text-3xl font-bold text-blue-400">
               📊 Day 18
             </h3>
@@ -374,10 +409,12 @@ function Home() {
             <div className="mt-6 text-green-400 font-semibold">
               ✅ Completed
             </div>
+
           </div>
 
           {/* Day 19 */}
           <div className="bg-slate-900 border border-amber-500 rounded-2xl p-8">
+
             <h3 className="text-3xl font-bold text-amber-400">
               🎯 Day 19
             </h3>
@@ -392,25 +429,53 @@ function Home() {
             <div className="mt-6 text-green-400 font-semibold">
               ✅ Completed
             </div>
+
           </div>
-        
-        {/* Day 20 */}
-<div className="bg-slate-900 border border-green-500 rounded-2xl p-8">
-  <h3 className="text-3xl font-bold text-green-400">
-    🏁 Day 20
-  </h3>
 
-  <p className="text-gray-400 mt-4">
-    Completed the final ATS evaluation and production-readiness
-    validation of the Zecpath AI recruitment platform, including
-    skill extraction accuracy, ATS scoring, candidate ranking,
-    shortlisting decisions, and API validation.
-  </p>
+          {/* Day 20 */}
+          <div className="bg-slate-900 border border-green-500 rounded-2xl p-8">
 
-  <div className="mt-6 text-green-400 font-semibold">
-    ✅ Completed
-  </div>
-</div>
+            <h3 className="text-3xl font-bold text-green-400">
+              🏁 Day 20
+            </h3>
+
+            <p className="text-gray-400 mt-4">
+              Completed the final ATS evaluation and production-readiness
+              validation of the Zecpath AI recruitment platform, including
+              skill extraction accuracy, ATS scoring, candidate ranking,
+              shortlisting decisions, and API validation.
+            </p>
+
+            <div className="mt-6 text-green-400 font-semibold">
+              ✅ Completed
+            </div>
+
+          </div>
+
+          {/* Day 21 */}
+          <div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
+
+            <h3 className="text-3xl font-bold text-purple-400">
+              ⚙️ Day 21
+            </h3>
+
+            <p className="text-gray-400 mt-4">
+              Eligibility Decision Engine
+            </p>
+
+            <p className="text-gray-400 mt-4">
+              Implemented a rule-based eligibility engine that evaluates
+              ATS score, mandatory skills, experience, location, and
+              availability to classify candidates as Eligible, Review,
+              or Rejected.
+            </p>
+
+            <div className="mt-6 text-green-400 font-semibold">
+              ✅ Completed
+            </div>
+
+          </div>
+
         </div>
 
       </section>
