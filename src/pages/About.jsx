@@ -9,6 +9,7 @@ function About() {
 
       <section className="max-w-7xl mx-auto px-6 py-20">
 
+        {/* Header */}
         <div className="text-center">
 
           <p className="text-blue-400 uppercase tracking-widest">
@@ -28,10 +29,10 @@ function About() {
 
         </div>
 
+        {/* Main Information */}
         <div className="grid md:grid-cols-3 gap-8 mt-20">
 
           {/* Objectives */}
-
           <div className="bg-slate-900 border border-blue-500 rounded-2xl p-8">
 
             <h2 className="text-2xl font-bold text-blue-400 mb-6">
@@ -50,7 +51,6 @@ function About() {
           </div>
 
           {/* Technologies */}
-
           <div className="bg-slate-900 border border-green-500 rounded-2xl p-8">
 
             <h2 className="text-2xl font-bold text-green-400 mb-6">
@@ -93,6 +93,11 @@ function About() {
               <li>🔗 REST API Development</li>
               <li>🗄️ Database & Data Storage</li>
 
+              <li>🤖 AI HR Screening</li>
+              <li>❓ Interview Question Generation</li>
+              <li>📋 Configurable Screening Rules</li>
+              <li>🧠 Structured AI Conversation Objects</li>
+
               <li>🐙 Git & GitHub</li>
               <li>🚀 Vercel Deployment</li>
 
@@ -101,7 +106,6 @@ function About() {
           </div>
 
           {/* Timeline */}
-
           <div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
 
             <h2 className="text-2xl font-bold text-purple-400 mb-6">
@@ -131,11 +135,11 @@ function About() {
               <li>🎯 Day 19 – Completed</li>
               <li>🏁 Day 20 – Completed</li>
               <li>⚙️ Day 21 – Completed</li>
+              <li>🤖 Day 22 – Completed</li>
 
             </ul>
 
           </div>
-
 
         </div>
 
