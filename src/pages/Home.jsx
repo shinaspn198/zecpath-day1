@@ -499,6 +499,54 @@ function Home() {
   </div>
 
 </div>
+{/* Day 22 */}
+<div className="bg-slate-900 border border-orange-500 rounded-2xl p-8">
+
+  <h3 className="text-3xl font-bold text-orange-400">
+    🤖 Day 22
+  </h3>
+
+  <p className="text-gray-400 mt-4">
+    AI HR Screening & Interview Question Engine
+  </p>
+
+  <p className="text-gray-400 mt-4">
+    Implemented an AI-powered HR screening workflow that generates
+    structured interview questions across categories such as introduction,
+    education, experience, skills, location, salary, and notice period.
+    The system uses configurable screening rules and structured question
+    objects to support automated candidate evaluation.
+  </p>
+
+  <div className="mt-6 text-green-400 font-semibold">
+    ✅ Completed
+  </div>
+
+</div>
+
+{/* Day 23 */}
+<div className="bg-slate-900 border border-cyan-500 rounded-2xl p-8">
+
+  <h3 className="text-3xl font-bold text-cyan-400">
+    🎙️ Day 23
+  </h3>
+
+  <p className="text-gray-400 mt-4">
+    Transcript Data Architecture
+  </p>
+
+  <p className="text-gray-400 mt-4">
+    Designed and implemented the transcript data architecture for
+    AI-powered candidate screening, including a structured voice
+    transcript schema, metadata standards, transcript normalization,
+    and screening interaction data structures.
+  </p>
+
+  <div className="mt-6 text-green-400 font-semibold">
+    ✅ Completed
+  </div>
+
+</div>
         </div>
 
       </section>

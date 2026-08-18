@@ -136,7 +136,7 @@ function About() {
               <li>🏁 Day 20 – Completed</li>
               <li>⚙️ Day 21 – Completed</li>
               <li>🤖 Day 22 – Completed</li>
-
+              <li>🎙️ Day 23 – Completed</li>
             </ul>
 
           </div>
