@@ -29,6 +29,7 @@ function About() {
 
         </div>
 
+
         {/* Main Information */}
         <div className="grid md:grid-cols-3 gap-8 mt-20">
 
@@ -40,15 +41,18 @@ function About() {
             </h2>
 
             <ul className="space-y-3 text-gray-300">
+
               <li>✅ Document daily internship learning</li>
               <li>✅ Build a professional documentation portal</li>
               <li>✅ Learn AI Engineering workflows</li>
               <li>✅ Develop AI recruitment components</li>
               <li>✅ Integrate AI modules through REST APIs</li>
               <li>✅ Track project progress and deliverables</li>
+
             </ul>
 
           </div>
+
 
           {/* Technologies */}
           <div className="bg-slate-900 border border-green-500 rounded-2xl p-8">
@@ -98,12 +102,19 @@ function About() {
               <li>📋 Configurable Screening Rules</li>
               <li>🧠 Structured AI Conversation Objects</li>
 
+              {/* Day 24 Technologies */}
+              <li>🎙️ Voice Interview Processing</li>
+              <li>📝 Transcript Processing</li>
+              <li>🧠 Candidate Response Analysis</li>
+              <li>📊 Structured Interview Evaluation</li>
+
               <li>🐙 Git & GitHub</li>
               <li>🚀 Vercel Deployment</li>
 
             </ul>
 
           </div>
+
 
           {/* Timeline */}
           <div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
@@ -137,6 +148,8 @@ function About() {
               <li>⚙️ Day 21 – Completed</li>
               <li>🤖 Day 22 – Completed</li>
               <li>🎙️ Day 23 – Completed</li>
+              <li>🧠 Day 24 – Completed</li>
+
             </ul>
 
           </div>
@@ -144,6 +157,7 @@ function About() {
         </div>
 
       </section>
+
 
       <Footer />
 

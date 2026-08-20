@@ -173,12 +173,20 @@ function Documentation() {
             <p>AI HR Screening & Interview Question Engine</p>
           </Link>
 
-        {/* DAY 23 */}
-<Link to="/day23" className="doc-card">
-  <span className="badge completed">Completed</span>
-  <h2>🎙️ Day 23</h2>
-  <p>Transcript Data Architecture</p>
-</Link>
+          {/* DAY 23 */}
+          <Link to="/day23" className="doc-card">
+            <span className="badge completed">Completed</span>
+            <h2>🎙️ Day 23</h2>
+            <p>Transcript Data Architecture</p>
+          </Link>
+
+          {/* DAY 24 */}
+          <Link to="/day24" className="doc-card">
+            <span className="badge completed">Completed</span>
+            <h2>🌐 Day 24</h2>
+            <p>AI HR Screening Web Application</p>
+          </Link>
+
         </div>
 
       </div>
