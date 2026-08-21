@@ -187,6 +187,13 @@ function Documentation() {
             <p>AI HR Screening Web Application</p>
           </Link>
 
+          {/* DAY 25 */}
+          <Link to="/day25" className="doc-card">
+            <span className="badge completed">Completed</span>
+            <h2>🧠 Day 25</h2>
+            <p>AI HR Screening Answer Understanding & Integration</p>
+          </Link>
+
         </div>
 
       </div>

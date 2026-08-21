@@ -108,6 +108,17 @@ function About() {
               <li>🧠 Candidate Response Analysis</li>
               <li>📊 Structured Interview Evaluation</li>
 
+              {/* Day 25 Technologies */}
+              <li>🧠 Intent Classification</li>
+              <li>🔎 Answer Understanding</li>
+              <li>🛠️ Skill Extraction & Integration</li>
+              <li>💼 Experience Extraction & Integration</li>
+              <li>⏱️ Availability Extraction & Integration</li>
+              <li>💰 Salary Extraction</li>
+              <li>❓ Vague Answer Detection</li>
+              <li>🔗 Final Response Integration</li>
+              <li>🧪 AI Screening Integration Testing</li>
+
               <li>🐙 Git & GitHub</li>
               <li>🚀 Vercel Deployment</li>
 
@@ -148,7 +159,8 @@ function About() {
               <li>⚙️ Day 21 – Completed</li>
               <li>🤖 Day 22 – Completed</li>
               <li>🎙️ Day 23 – Completed</li>
-              <li>🧠 Day 24 – Completed</li>
+              <li>🌐 Day 24 – Completed</li>
+              <li>🧠 Day 25 – Completed</li>
 
             </ul>
 

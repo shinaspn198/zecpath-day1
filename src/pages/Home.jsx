@@ -44,6 +44,7 @@ function Home() {
 
       </section>
 
+
       {/* Internship Progress */}
       <section className="max-w-7xl mx-auto px-6 pb-24">
 
@@ -64,6 +65,7 @@ function Home() {
 
         </div>
 
+
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
 
           {/* Day 1 */}
@@ -79,6 +81,7 @@ function Home() {
             </div>
           </div>
 
+
           {/* Day 2 */}
           <div className="bg-slate-900 border border-green-500 rounded-2xl p-8">
             <h3 className="text-3xl font-bold text-green-400">
@@ -91,6 +94,7 @@ function Home() {
               ✅ Completed
             </div>
           </div>
+
 
           {/* Day 3 */}
           <div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
@@ -106,6 +110,7 @@ function Home() {
             </div>
           </div>
 
+
           {/* Day 4 */}
           <div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
             <h3 className="text-3xl font-bold text-purple-400">
@@ -119,6 +124,7 @@ function Home() {
               ✅ Completed
             </div>
           </div>
+
 
           {/* Day 5 */}
           <div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
@@ -134,6 +140,7 @@ function Home() {
             </div>
           </div>
 
+
           {/* Day 6 */}
           <div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
             <h3 className="text-3xl font-bold text-purple-400">
@@ -147,6 +154,7 @@ function Home() {
               ✅ Completed
             </div>
           </div>
+
 
           {/* Day 7 */}
           <div className="bg-slate-900 border border-cyan-500 rounded-2xl p-8">
@@ -162,6 +170,7 @@ function Home() {
               ✅ Completed
             </div>
           </div>
+
 
           {/* Day 8 */}
           <div className="bg-slate-900 border border-cyan-500 rounded-2xl p-8">
@@ -179,6 +188,7 @@ function Home() {
             </div>
           </div>
 
+
           {/* Day 9 */}
           <div className="bg-slate-900 border border-indigo-500 rounded-2xl p-8">
             <h3 className="text-3xl font-bold text-indigo-400">
@@ -193,6 +203,7 @@ function Home() {
               ✅ Completed
             </div>
           </div>
+
 
           {/* Day 10 */}
           <div className="bg-slate-900 border border-emerald-500 rounded-2xl p-8">
@@ -210,6 +221,7 @@ function Home() {
             </div>
           </div>
 
+
           {/* Day 11 */}
           <div className="bg-slate-900 border border-yellow-500 rounded-2xl p-8">
             <h3 className="text-3xl font-bold text-yellow-400">
@@ -226,6 +238,7 @@ function Home() {
             </div>
           </div>
 
+
           {/* Day 12 */}
           <div className="bg-slate-900 border border-pink-500 rounded-2xl p-8">
             <h3 className="text-3xl font-bold text-pink-400">
@@ -241,6 +254,7 @@ function Home() {
               ✅ Completed
             </div>
           </div>
+
 
           {/* Day 13 */}
           <div className="bg-slate-900 border border-red-500 rounded-2xl p-8">
@@ -259,6 +273,7 @@ function Home() {
             </div>
           </div>
 
+
           {/* Day 14 */}
           <div className="bg-slate-900 border border-orange-500 rounded-2xl p-8">
             <h3 className="text-3xl font-bold text-orange-400">
@@ -276,6 +291,7 @@ function Home() {
             </div>
           </div>
 
+
           {/* Day 15 */}
           <div className="bg-slate-900 border border-teal-500 rounded-2xl p-8">
             <h3 className="text-3xl font-bold text-teal-400">
@@ -291,6 +307,7 @@ function Home() {
               ✅ Completed
             </div>
           </div>
+
 
           {/* Day 16 */}
           <div className="bg-slate-900 border border-cyan-500 rounded-2xl p-8">
@@ -308,6 +325,7 @@ function Home() {
             </div>
           </div>
 
+
           {/* Day 17 */}
           <div className="bg-slate-900 border border-violet-500 rounded-2xl p-8">
             <h3 className="text-3xl font-bold text-violet-400">
@@ -323,6 +341,7 @@ function Home() {
               ✅ Completed
             </div>
           </div>
+
 
           {/* Day 18 */}
           <div className="bg-slate-900 border border-blue-500 rounded-2xl p-8">
@@ -340,6 +359,7 @@ function Home() {
             </div>
           </div>
 
+
           {/* Day 19 */}
           <div className="bg-slate-900 border border-amber-500 rounded-2xl p-8">
             <h3 className="text-3xl font-bold text-amber-400">
@@ -356,6 +376,7 @@ function Home() {
             </div>
           </div>
 
+
           {/* Day 20 */}
           <div className="bg-slate-900 border border-green-500 rounded-2xl p-8">
             <h3 className="text-3xl font-bold text-green-400">
@@ -371,6 +392,7 @@ function Home() {
               ✅ Completed
             </div>
           </div>
+
 
           {/* Day 21 */}
           <div className="bg-slate-900 border border-purple-500 rounded-2xl p-8">
@@ -393,6 +415,7 @@ function Home() {
               ✅ Completed
             </div>
           </div>
+
 
           {/* Day 22 */}
           <div className="bg-slate-900 border border-orange-500 rounded-2xl p-8">
@@ -418,6 +441,7 @@ function Home() {
             </div>
           </div>
 
+
           {/* Day 23 */}
           <div className="bg-slate-900 border border-cyan-500 rounded-2xl p-8">
             <h3 className="text-3xl font-bold text-cyan-400">
@@ -439,6 +463,7 @@ function Home() {
               ✅ Completed
             </div>
           </div>
+
 
           {/* Day 24 */}
           <div className="bg-slate-900 border border-blue-500 rounded-2xl p-8">
@@ -462,9 +487,41 @@ function Home() {
             </div>
           </div>
 
+
+          {/* Day 25 */}
+          <Link
+            to="/day25"
+            className="block bg-slate-900 border border-green-500 rounded-2xl p-8 hover:bg-slate-800 hover:border-green-400 transition duration-300"
+          >
+            <h3 className="text-3xl font-bold text-green-400">
+              🧠 Day 25
+            </h3>
+
+            <p className="text-gray-400 mt-4">
+              HR Screening & AI Conversation Pipeline
+            </p>
+
+            <p className="text-gray-400 mt-4">
+              Completed the AI screening intelligence layer including intent
+              classification, answer understanding, skill extraction and
+              integration, experience extraction and integration, availability
+              processing, salary extraction, vague answer detection, final
+              integration, and complete validation testing.
+            </p>
+
+            <div className="mt-6 text-green-400 font-semibold">
+              ✅ Completed
+            </div>
+
+            <div className="mt-4 text-blue-400 font-semibold">
+              → View Day 25 Documentation
+            </div>
+          </Link>
+
         </div>
 
       </section>
+
 
       <Footer />
 
