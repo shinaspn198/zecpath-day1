@@ -193,7 +193,14 @@ function Documentation() {
             <h2>🧠 Day 25</h2>
             <p>AI HR Screening Answer Understanding & Integration</p>
           </Link>
-
+          
+                    {/* DAY 26 */}
+          <Link to="/day26" className="doc-card">
+            <span className="badge completed">Completed</span>
+            <h2>📊 Day 26</h2>
+            <p>Final Screening Scoring & Evaluation</p>
+          </Link>
+          
         </div>
 
       </div>

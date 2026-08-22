@@ -488,7 +488,7 @@ function Home() {
           </div>
 
 
-          {/* Day 25 */}
+                    {/* Day 25 */}
           <Link
             to="/day25"
             className="block bg-slate-900 border border-green-500 rounded-2xl p-8 hover:bg-slate-800 hover:border-green-400 transition duration-300"
@@ -518,6 +518,37 @@ function Home() {
             </div>
           </Link>
 
+
+          {/* Day 26 */}
+          <Link
+            to="/day26"
+            className="block bg-slate-900 border border-cyan-500 rounded-2xl p-8 hover:bg-slate-800 hover:border-cyan-400 transition duration-300"
+          >
+            <h3 className="text-3xl font-bold text-cyan-400">
+              📊 Day 26
+            </h3>
+
+            <p className="text-gray-400 mt-4">
+              Final Screening Scoring & Evaluation
+            </p>
+
+            <p className="text-gray-400 mt-4">
+              Implemented the final screening scoring layer that evaluates
+              candidate answers using clarity, relevance, completeness, and
+              consistency. Integrated question-level scoring, overall score
+              calculation, score interpretation, candidate classification,
+              edge-case handling, and final validation testing.
+            </p>
+
+            <div className="mt-6 text-green-400 font-semibold">
+              ✅ Step 6 Completed
+            </div>
+
+            <div className="mt-4 text-blue-400 font-semibold">
+              → View Day 26 Documentation
+            </div>
+          </Link>
+          
         </div>
 
       </section>

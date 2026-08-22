@@ -48,6 +48,8 @@ function About() {
               <li>✅ Develop AI recruitment components</li>
               <li>✅ Integrate AI modules through REST APIs</li>
               <li>✅ Track project progress and deliverables</li>
+              <li>✅ Build an end-to-end AI screening pipeline</li>
+              <li>✅ Implement explainable candidate evaluation</li>
 
             </ul>
 
@@ -119,6 +121,20 @@ function About() {
               <li>🔗 Final Response Integration</li>
               <li>🧪 AI Screening Integration Testing</li>
 
+              {/* Day 26 Technologies */}
+              <li>📊 Screening Question Scoring</li>
+              <li>🧠 Answer Quality Evaluation</li>
+              <li>💡 Clarity Scoring</li>
+              <li>🎯 Relevance Scoring</li>
+              <li>📝 Completeness Scoring</li>
+              <li>🔄 Consistency Scoring</li>
+              <li>📈 Overall Screening Score</li>
+              <li>🏷️ Candidate Performance Classification</li>
+              <li>⭐ Excellent / Average / Weak Categories</li>
+              <li>🧮 Score Normalization</li>
+              <li>🔗 Final Screening Score Integration</li>
+              <li>🧪 Final Screening Validation Testing</li>
+
               <li>🐙 Git & GitHub</li>
               <li>🚀 Vercel Deployment</li>
 
@@ -161,6 +177,7 @@ function About() {
               <li>🎙️ Day 23 – Completed</li>
               <li>🌐 Day 24 – Completed</li>
               <li>🧠 Day 25 – Completed</li>
+              <li>📊 Day 26 – Completed</li>
 
             </ul>
 
