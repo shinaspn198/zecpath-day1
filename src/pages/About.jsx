@@ -137,6 +137,16 @@ function About() {
 
               <li>🐙 Git & GitHub</li>
               <li>🚀 Vercel Deployment</li>
+            
+                          {/* Day 27 Technologies */}
+              <li>🧠 Confidence Analysis Logic</li>
+              <li>😊 Sentiment Scoring</li>
+              <li>🔎 Hesitation Pattern Detection</li>
+              <li>⏱️ Response Length & Pace Analysis</li>
+              <li>❓ Uncertainty Detection</li>
+              <li>🔄 Contradiction Detection</li>
+              <li>💪 Communication Strength Indicators</li>
+              <li>📊 Behavioral Indicators Report</li>
 
             </ul>
 
@@ -178,7 +188,7 @@ function About() {
               <li>🌐 Day 24 – Completed</li>
               <li>🧠 Day 25 – Completed</li>
               <li>📊 Day 26 – Completed</li>
-
+              <li>🧠 Day 27 – Completed</li>
             </ul>
 
           </div>

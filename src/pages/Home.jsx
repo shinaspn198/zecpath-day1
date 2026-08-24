@@ -519,7 +519,7 @@ function Home() {
           </Link>
 
 
-          {/* Day 26 */}
+                    {/* Day 26 */}
           <Link
             to="/day26"
             className="block bg-slate-900 border border-cyan-500 rounded-2xl p-8 hover:bg-slate-800 hover:border-cyan-400 transition duration-300"
@@ -546,6 +546,37 @@ function Home() {
 
             <div className="mt-4 text-blue-400 font-semibold">
               → View Day 26 Documentation
+            </div>
+          </Link>
+
+
+          {/* Day 27 */}
+          <Link
+            to="/day27"
+            className="block bg-slate-900 border border-purple-500 rounded-2xl p-8 hover:bg-slate-800 hover:border-purple-400 transition duration-300"
+          >
+            <h3 className="text-3xl font-bold text-purple-400">
+              🧠 Day 27
+            </h3>
+
+            <p className="text-gray-400 mt-4">
+              Confidence & Sentiment Signal Analysis
+            </p>
+
+            <p className="text-gray-400 mt-4">
+              Implemented the AI screening evaluation pipeline including
+              confidence analysis, answer quality analysis, answer relevance
+              analysis, combined response analysis, response scoring,
+              final screening evaluation, screening session analysis,
+              candidate screening score and final screening report generation.
+            </p>
+
+            <div className="mt-6 text-green-400 font-semibold">
+              ✅ Step 9 Completed
+            </div>
+
+            <div className="mt-4 text-blue-400 font-semibold">
+              → View Day 27 Documentation
             </div>
           </Link>
           
