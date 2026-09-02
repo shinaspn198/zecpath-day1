@@ -29,7 +29,7 @@ import Day24 from "./pages/Day24";
 import Day25 from "./pages/Day25";
 import Day26 from "./pages/Day26";
 import Day27 from "./pages/Day27";
-
+import Day28 from "./pages/Day28";
 import About from "./pages/About";
 import Documentation from "./pages/Documentation";
 
@@ -69,7 +69,7 @@ function App() {
         <Route path="/day25" element={<Day25 />} />
         <Route path="/day26" element={<Day26 />} />
         <Route path="/day27" element={<Day27 />} />
-
+        <Route path="/day28" element={<Day28 />} />
         <Route path="*" element={<NotFound />} />
 
       </Routes>

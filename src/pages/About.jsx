@@ -137,8 +137,8 @@ function About() {
 
               <li>🐙 Git & GitHub</li>
               <li>🚀 Vercel Deployment</li>
-            
-                          {/* Day 27 Technologies */}
+
+              {/* Day 27 Technologies */}
               <li>🧠 Confidence Analysis Logic</li>
               <li>😊 Sentiment Scoring</li>
               <li>🔎 Hesitation Pattern Detection</li>
@@ -147,6 +147,20 @@ function About() {
               <li>🔄 Contradiction Detection</li>
               <li>💪 Communication Strength Indicators</li>
               <li>📊 Behavioral Indicators Report</li>
+
+              {/* Day 28 Technologies */}
+              <li>📋 AI Screening Report Generation</li>
+              <li>🧾 Structured Screening Reports</li>
+              <li>🔎 Key Answer Summarization</li>
+              <li>💪 Candidate Strength Identification</li>
+              <li>⚠️ Candidate Risk Identification</li>
+              <li>❓ Missing Information Detection</li>
+              <li>💰 Salary Expectation Reporting</li>
+              <li>⏱️ Availability Reporting</li>
+              <li>🛠️ Confirmed Skills Reporting</li>
+              <li>📊 Recruiter-Ready Report Formatting</li>
+              <li>📄 Exportable Screening Report Format</li>
+              <li>🧪 Sample Screening Report Generation</li>
 
             </ul>
 
@@ -189,6 +203,8 @@ function About() {
               <li>🧠 Day 25 – Completed</li>
               <li>📊 Day 26 – Completed</li>
               <li>🧠 Day 27 – Completed</li>
+              <li>📋 Day 28 – Completed</li>
+
             </ul>
 
           </div>

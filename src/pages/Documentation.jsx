@@ -187,13 +187,12 @@ function Documentation() {
             <p>AI HR Screening Web Application</p>
           </Link>
 
-                    {/* DAY 25 */}
+          {/* DAY 25 */}
           <Link to="/day25" className="doc-card">
             <span className="badge completed">Completed</span>
             <h2>🧠 Day 25</h2>
             <p>AI HR Screening Answer Understanding & Integration</p>
           </Link>
-
 
           {/* DAY 26 */}
           <Link to="/day26" className="doc-card">
@@ -202,13 +201,20 @@ function Documentation() {
             <p>Final Screening Scoring & Evaluation</p>
           </Link>
 
-
           {/* DAY 27 */}
           <Link to="/day27" className="doc-card">
             <span className="badge completed">Completed</span>
             <h2>🧠 Day 27</h2>
             <p>Confidence & Sentiment Signal Analysis</p>
           </Link>
+
+          {/* DAY 28 */}
+          <Link to="/day28" className="doc-card">
+            <span className="badge completed">Completed</span>
+            <h2>📋 Day 28</h2>
+            <p>AI Screening Report Generator</p>
+          </Link>
+
         </div>
 
       </div>
