@@ -579,33 +579,64 @@ function Home() {
               → View Day 27 Documentation
             </div>
           </Link>
-{/* Day 28 */}
-<Link
-  to="/day28"
-  className="block bg-slate-900 border border-green-500 rounded-2xl p-8 hover:bg-slate-800 hover:border-green-400 transition duration-300"
->
-  <h3 className="text-3xl font-bold text-green-400">
-    📋 Day 28
-  </h3>
+          
+          {/* Day 28 */}
+          <Link
+            to="/day28"
+            className="block bg-slate-900 border border-green-500 rounded-2xl p-8 hover:bg-slate-800 hover:border-green-400 transition duration-300"
+          >
+            <h3 className="text-3xl font-bold text-green-400">
+              📋 Day 28
+            </h3>
 
-  <p className="text-gray-400 mt-4">
-    AI Screening Report Generator
-  </p>
+            <p className="text-gray-400 mt-4">
+              AI Screening Report Generator
+            </p>
 
-  <p className="text-gray-400 mt-4">
-    Transformed structured AI screening evaluations into recruiter-ready
-    reports containing key answers, strengths, risks, missing information,
-    salary expectations, availability, confirmed skills, and recommendations.
-  </p>
+            <p className="text-gray-400 mt-4">
+              Transformed structured AI screening evaluations into recruiter-ready
+              reports containing key answers, strengths, risks, missing information,
+              salary expectations, availability, confirmed skills, and recommendations.
+            </p>
 
-  <div className="mt-6 text-green-400 font-semibold">
-    ✅ Completed
-  </div>
+            <div className="mt-6 text-green-400 font-semibold">
+              ✅ Completed
+            </div>
 
-  <div className="mt-4 text-blue-400 font-semibold">
-    → View Day 28 Documentation
-  </div>
-</Link>
+            <div className="mt-4 text-blue-400 font-semibold">
+              → View Day 28 Documentation
+            </div>
+          </Link>
+
+
+          {/* Day 29 */}
+          <Link
+            to="/day29"
+            className="block bg-slate-900 border border-indigo-500 rounded-2xl p-8 hover:bg-slate-800 hover:border-indigo-400 transition duration-300"
+          >
+            <h3 className="text-3xl font-bold text-indigo-400">
+              💬 Day 29
+            </h3>
+
+            <p className="text-gray-400 mt-4">
+              AI Conversation Flow Design
+            </p>
+
+            <p className="text-gray-400 mt-4">
+              Designed the AI conversation flow for screening calls, including
+              conversation state management, decision-tree routing, silence
+              handling, confusion handling, repeated-answer handling, fallback
+              questions, follow-up triggers, and polite failure and retry logic.
+            </p>
+
+            <div className="mt-6 text-green-400 font-semibold">
+              ✅ Completed
+            </div>
+
+            <div className="mt-4 text-blue-400 font-semibold">
+              → View Day 29 Documentation
+            </div>
+          </Link>
 
         </div>
 

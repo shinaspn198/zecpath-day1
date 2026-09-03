@@ -214,6 +214,13 @@ function Documentation() {
             <h2>📋 Day 28</h2>
             <p>AI Screening Report Generator</p>
           </Link>
+        
+          {/* DAY 29 */}
+          <Link to="/day29" className="doc-card">
+            <span className="badge completed">Completed</span>
+            <h2>💬 Day 29</h2>
+            <p>AI Conversation Flow Design</p>
+          </Link>
 
         </div>
 

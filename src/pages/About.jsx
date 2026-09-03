@@ -162,6 +162,21 @@ function About() {
               <li>📄 Exportable Screening Report Format</li>
               <li>🧪 Sample Screening Report Generation</li>
 
+              
+               {/* Day 29 Technologies */}
+              <li>💬 AI Conversation Flow Design</li>
+              <li>🧠 Conversation State Management</li>
+              <li>🌳 Conversation Decision Tree</li>
+              <li>⏳ Silence Handling</li>
+              <li>❓ Confusion Handling</li>
+              <li>🔄 Repeated Answer Handling</li>
+              <li>🔎 Follow-up Trigger Detection</li>
+              <li>💡 Fallback Question Generation</li>
+              <li>🔁 Failure & Retry Logic</li>
+              <li>🗣️ Dynamic Conversation Routing</li>
+              <li>⚙️ Conversation Flow Integration</li>
+              <li>🧪 Conversation Flow Validation Testing</li>
+
             </ul>
 
           </div>
@@ -204,6 +219,7 @@ function About() {
               <li>📊 Day 26 – Completed</li>
               <li>🧠 Day 27 – Completed</li>
               <li>📋 Day 28 – Completed</li>
+              <li>💬 Day 29 – Completed</li>
 
             </ul>
 
